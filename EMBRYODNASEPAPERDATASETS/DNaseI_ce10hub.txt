@@ -1,0 +1,5 @@
+hub MargaretHo_SternbergLab_Caltech_DNaseIseq_ce10
+shortLabel DNaseIseq_ce10
+longLabel MargaretHo_SternbergLab_Caltech_DNaseIseq_ce10
+genomesFile genomes.txt
+email  margaret.ho@caltech.edu

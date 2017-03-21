@@ -1,0 +1,267 @@
+iframeOptions width='100%' width='1822'
+
+track  bigWig1
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/merged.embryo.ce10.total.bw
+shortLabel Embryo DNaseI signal (Total)
+longLabel Embryo DNaseI signal (Total)
+type bigWig
+visibility full
+priority 10
+
+track  bigWig2
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/merged.embryo.ce10.positive.bw
+shortLabel Embryo DNaseI signal (Positive Strand)
+longLabel Embryo DNaseI signal (Positive Strand)
+type bigWig
+visibility full
+color 0,128,0
+priority 20
+
+track  bigWig3
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/merged.embryo.ce10.negative.bw
+shortLabel Embryo DNaseI signal (Negative Strand)
+longLabel Embryo DNaseI signal (Negative Strand)
+type bigWig
+visibility full
+color 128,0,128
+priority 30
+
+track bigBed1
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/embryo.ce10.allDHS.bb
+shortLabel Embryo All DHS
+longLabel Embryo All DHS
+type bigBed
+visibility dense
+color 67,162,202
+priority 40
+
+track bigBed2
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/embryo.ce10.noncodingDHS.bb
+shortLabel Embryo Noncoding DHS
+longLabel Embryo Noncoding DHS
+type bigBed
+visibility dense
+color 123,204,196
+priority 50
+
+track bigBed3a
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/embryo.ce10.DHSfootprints1e-4.bb
+shortLabel Embryo Noncoding Footprints
+longLabel Embryo Noncoding Footprints
+type bigBed
+visibility hide
+color 68,104,172
+priority 60
+
+track bigBed3b
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/embryo.ce10.DNase2TFfootprints.bb
+shortLabel Embryo DNase2TF Noncoding Footprints
+longLabel Embryo DNase2TF Noncoding Footprints
+type bigBed
+visibility dense
+color 68,104,172
+priority 60
+
+track  bigWigReplicateATotal
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/merged.embryo.ce10.A.total.bw
+shortLabel Embryo Replicate A Embryo DNaseI signal (Total)
+longLabel Embryo Replicate A Embryo DNaseI signal (Total)
+type bigWig
+visibility hide
+priority 100
+
+track  bigWigReplicateAPositive
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/merged.embryo.ce10.A.positive.bw
+shortLabel Embryo Replicate A Embryo DNaseI signal (Positive Strand)
+longLabel Embryo Replicate A Embryo DNaseI signal (Positive Strand)
+type bigWig
+visibility hide
+priority 100
+
+track  bigWigReplicateANegative
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/merged.embryo.ce10.A.negative.bw
+shortLabel Embryo Replicate A Embryo DNaseI signal (Negative Strand)
+longLabel Embryo Replicate A Embryo DNaseI signal (Negative Strand)
+type bigWig
+visibility hide
+priority 100
+
+track  bigWigReplicateBTotal
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/merged.embryo.ce10.B.total.bw
+shortLabel Embryo Replicate B Embryo DNaseI signal (Total)
+longLabel Embryo Replicate B Embryo DNaseI signal (Total)
+type bigWig
+visibility hide
+priority 100
+
+track  bigWigReplicateBPositive
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/merged.embryo.ce10.B.positive.bw
+shortLabel Embryo Replicate B Embryo DNaseI signal (Positive Strand)
+longLabel Embryo Replicate B Embryo DNaseI signal (Positive Strand)
+type bigWig
+visibility hide
+priority 100
+
+track  bigWigReplicateBNegative
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/merged.embryo.ce10.B.negative.bw
+shortLabel Embryo Replicate B Embryo DNaseI signal (Negative Strand)
+longLabel Embryo Replicate B Embryo DNaseI signal (Negative Strand)
+type bigWig
+visibility hide
+priority 100
+
+track  bigWigReplicateCTotal
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/merged.embryo.ce10.C.total.bw
+shortLabel Embryo Replicate C Embryo DNaseI signal (Total)
+longLabel Embryo Replicate C Embryo DNaseI signal (Total)
+type bigWig
+visibility hide
+priority 100
+
+track  bigWigReplicateCPositive
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/merged.embryo.ce10.C.positive.bw
+shortLabel Embryo Replicate C Embryo DNaseI signal (Positive Strand)
+longLabel Embryo Replicate C Embryo DNaseI signal (Positive Strand)
+type bigWig
+visibility hide
+priority 100
+
+track  bigWigReplicateCNegative
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/merged.embryo.ce10.C.negative.bw
+shortLabel Embryo Replicate C Embryo DNaseI signal (Negative Strand)
+longLabel Embryo Replicate C Embryo DNaseI signal (Negative Strand)
+type bigWig
+visibility hide
+priority 100
+
+track  bigWigReplicateDTotal
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/merged.embryo.ce10.D.total.bw
+shortLabel Embryo Replicate D Embryo DNaseI signal (Total)
+longLabel Embryo Replicate D Embryo DNaseI signal (Total)
+type bigWig
+visibility hide
+priority 100
+
+track  bigWigReplicateDPositive
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/merged.embryo.ce10.D.positive.bw
+shortLabel Embryo Replicate D Embryo DNaseI signal (Positive Strand)
+longLabel Embryo Replicate D Embryo DNaseI signal (Positive Strand)
+type bigWig
+visibility hide
+priority 100
+
+track  bigWigReplicateDNegative
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/merged.embryo.ce10.D.negative.bw
+shortLabel Embryo Replicate D Embryo DNaseI signal (Negative Strand)
+longLabel Embryo Replicate D Embryo DNaseI signal (Negative Strand)
+type bigWig
+visibility hide
+priority 100
+
+track comparisonData_lin-26CRMs_Landmann
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/comparisondata/lin-26regulatoryregions_WS220.bb
+shortLabel lin-26 CRMs
+longLabel lin-26 CRMs (Landmann et al. 2004)
+type bigBed
+visibility full
+priority 200
+color 117,107,177
+
+track comparisonData_myo-2CRMs_OkkemaFire
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/comparisondata/myo-2regulatoryregions_WS220.bb
+shortLabel myo-2 CRMs
+longLabel myo-2 CRMs (Okkema and Fire 1994)
+type bigBed
+visibility full
+priority 200
+color 117,107,177
+
+track comparisonData_myo-3CRMs_Okkema
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/comparisondata/myo-3regulatoryregions.WS220.bb
+shortLabel myo-3 CRMs
+longLabel myo-3 CRMs (Okkema et al. 1993)
+type bigBed
+visibility full
+priority 200
+color 117,107,177
+
+track comparisonData_hlh-1CRMs_Lei
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/comparisondata/hlh-1regulatoryregions.WS220.bb
+shortLabel hlh-1 CRMs
+longLabel hlh-1 CRMs (Krause et al. 1994; Lei et al. 2009)
+type bigBed
+visibility full
+priority 200
+color 117,107,177
+
+track comparisonData_lin-39_ceh-13_MUSSA_Kuntz
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/comparisondata/WS220_MUSSA_Kuntz_coordinates.bb
+shortLabel lin-39 ceh-13 conserved MUSSA sites
+longLabel lin-39 ceh-13 conserved MUSSA sites (Kuntz et al. 2008)
+type bigBed
+visibility full
+priority 200
+color 117,107,177
+
+track comparisonData_lin-39_ceh-13_testedregions_Kuntz
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/comparisondata/WS220_Kuntz_tested_regions.bb
+shortLabel lin-39 ceh-13 tested regions
+longLabel lin-39 ceh-13 tested regions (Kuntz et al. 2008)
+type bigBed
+visibility full
+priority 200
+color 117,107,177
+
+track comparisonData_TSS_Chen
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/comparisondata/Chen_Ahringer_2013_WS220_TIC.bb
+shortLabel TSS
+longLabel TSS (Chen et al. 2013)
+type bigBed
+visibility pack
+priority 150
+color 227,74,51
+
+track comparisonData_RNAPIIChIPembryo_modENCODE
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/comparisondata/Snyder_N2_POLII_eemb_combined_peaks.WS220.bb
+shortLabel RNAPII ChIP
+longLabel RNAPII ChIP earlyembryo modENCODE (Gerstein et al. 2010)
+type bigBed
+visibility dense
+priority 151
+color 179,0,0
+
+track comparisonData_CBP-1ChIPembryo_modENCODE
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/comparisondata/modENCODE_2767_CBP1_N2_MXEMB_1and4pooled_WS220.finalpeaks.bb
+shortLabel CBP-1 ChIP
+longLabel CBP-1 ChIP embryo modENCODE (Gerstein et al. 2010)
+type bigBed
+visibility dense
+priority 152
+color 201,148,199
+
+track comparisonData_modENCODEHOT
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/comparisondata/MODENCODE_HOT_REGIONS_CORE_WS220.bb
+shortLabel modENCODE HOT regions
+longLabel modENCODE HOT regions (Gerstein et al. 2010)
+type bigBed
+visibility dense
+priority 153
+color 223,101,176
+
+track comparisonData_H3K4me3ChIPembryo_modENCODE
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/comparisondata/modENCODE_3546_3547_H3K4ME3_N2_EEMB_LTEMB_peaks.WS220_refined.sort.merge.bb
+shortLabel H3K4me3 ChIP
+longLabel H3K4me3 ChIP embryo modENCODE (Gerstein et al. 2010)
+type bigBed
+visibility dense
+priority 154
+color 250,159,181
+
+track comparisonData_PHA-4ChIP_Zhong
+bigDataUrl http://woldlab.caltech.edu/~margaret.ho/comparisondata/PHA-4.Embryo.OP37.20C.ChIPseq.Rep1.WS220.modENCODE_582.bb
+shortLabel PHA-4 ChIP
+longLabel PHA-4 ChIP (Zhong et al. 2010)
+type bigBed
+visibility dense
+priority 155
+color 173,221,142
