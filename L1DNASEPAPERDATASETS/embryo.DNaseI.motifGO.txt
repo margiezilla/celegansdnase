@@ -1,0 +1,1918 @@
+#AAAATCATATG
+#EMBRYOintergenicDHS_0.05_GOsignificant
+
+GO:0033275	actin-myosin filament sliding	1	1	0.000e+00	+	0.001314
+GO:0018401	peptidyl-proline hydroxylation to 4-hydroxy-L-proline	3	1	0.000e+00	+	0.003940
+GO:0070252	actin-mediated cell contraction	3	1	0.000e+00	+	0.003940
+GO:0019471	4-hydroxyproline metabolic process	3	1	0.000e+00	+	0.003940
+GO:0015807	L-amino acid transport	4	1	0.000e+00	+	0.005252
+GO:0030048	actin filament-based movement	4	1	0.000e+00	+	0.005252
+GO:0019511	peptidyl-proline hydroxylation	6	1	0.000e+00	+	0.007875
+GO:0007213	G-protein coupled acetylcholine receptor signaling pathway	6	1	0.000e+00	+	0.007875
+GO:0018193	peptidyl-amino acid modification	185	2	0.000e+00	+	0.008394
+GO:0018126	protein hydroxylation	7	1	0.000e+00	+	0.009185
+
+#AAAATTCMAAA
+#EMBRYOintergenicDHS_0.05_GOsignificant
+
+GO:0009987	cellular process	5920	38	0.000e+00	+	0.000000
+GO:0050789	regulation of biological process	3069	27	0.000e+00	+	0.000000
+GO:0065007	biological regulation	3584	28	0.000e+00	+	0.000000
+GO:0050794	regulation of cellular process	2411	23	0.000e+00	+	0.000000
+GO:0051716	cellular response to stimulus	1432	18	0.000e+00	+	0.000000
+GO:0044237	cellular metabolic process	3318	26	0.000e+00	+	0.000000
+GO:0050896	response to stimulus	2110	21	0.000e+00	+	0.000000
+GO:0023052	signaling	1350	17	0.000e+00	+	0.000001
+GO:0007154	cell communication	1374	17	0.000e+00	+	0.000001
+GO:0044238	primary metabolic process	3725	27	0.000e+00	+	0.000001
+GO:0007165	signal transduction	1258	16	0.000e+00	+	0.000001
+GO:0008152	metabolic process	5122	31	0.000e+00	+	0.000002
+GO:0008150	biological_process	10081	42	0.000e+00	+	0.000017
+GO:0000003	reproduction	2674	21	0.000e+00	+	0.000020
+GO:0019538	protein metabolic process	1760	17	0.000e+00	+	0.000024
+GO:0071704	organic substance metabolic process	3809	25	0.000e+00	+	0.000026
+GO:0002119	nematode larval development	1993	18	0.000e+00	+	0.000027
+GO:0002164	larval development	1995	18	0.000e+00	+	0.000027
+GO:0009791	post-embryonic development	2012	18	0.000e+00	+	0.000031
+GO:0009790	embryo development	3028	22	0.000e+00	+	0.000036
+GO:0007275	multicellular organismal development	4288	26	0.000e+00	+	0.000064
+GO:0044267	cellular protein metabolic process	1274	14	0.000e+00	+	0.000076
+GO:0032501	multicellular organismal process	4707	27	0.000e+00	+	0.000103
+GO:0044249	cellular biosynthetic process	1318	14	0.000e+00	+	0.000113
+GO:0009792	embryo development ending in birth or egg hatching	2971	21	0.000e+00	+	0.000118
+GO:0009058	biosynthetic process	1385	14	0.000e+00	+	0.000201
+GO:0032502	developmental process	4574	26	0.000e+00	+	0.000229
+GO:0043170	macromolecule metabolic process	2839	20	0.000e+00	+	0.000248
+GO:0044260	cellular macromolecule metabolic process	2332	18	0.000e+00	+	0.000260
+GO:0048856	anatomical structure development	3846	22	0.000e+00	+	0.001978
+GO:0034220	ion transmembrane transport	395	7	0.000e+00	+	0.002581
+GO:0006464	cellular protein modification process	894	10	0.000e+00	+	0.002766
+GO:0036211	protein modification process	894	10	0.000e+00	+	0.002766
+GO:0043412	macromolecule modification	950	10	0.000e+00	+	0.004587
+GO:0018193	peptidyl-amino acid modification	185	5	0.000e+00	+	0.004920
+GO:0034645	cellular macromolecule biosynthetic process	996	10	0.000e+00	+	0.006770
+GO:0009059	macromolecule biosynthetic process	1003	10	0.000e+00	+	0.007169
+GO:0007166	cell surface receptor signaling pathway	466	7	0.000e+00	+	0.007204
+GO:0007005	mitochondrion organization	42	3	0.000e+00	+	0.008567
+GO:0007186	G-protein coupled receptor signaling pathway	337	6	0.000e+00	+	0.009161
+GO:0051179	localization	2763	17	0.000e+00	+	0.009796
+
+#ACTACAAACTAC
+#EMBRYOintergenicDHS_0.025_GOsignificant
+
+GO:0055115	entry into diapause	19	2	0.000e+00	+	0.000785
+GO:0043053	dauer entry	19	2	0.000e+00	+	0.000785
+GO:0070727	cellular macromolecule localization	169	3	0.000e+00	+	0.001621
+GO:0034613	cellular protein localization	169	3	0.000e+00	+	0.001621
+GO:0022611	dormancy process	29	2	0.000e+00	+	0.001823
+GO:0030001	metal ion transport	210	3	0.000e+00	+	0.003068
+GO:0071704	organic substance metabolic process	3809	8	0.000e+00	+	0.004716
+GO:0042221	response to chemical stimulus	637	4	0.000e+00	+	0.005240
+GO:0008152	metabolic process	5122	9	0.000e+00	+	0.005354
+GO:0071396	cellular response to lipid	288	3	0.000e+00	+	0.007713
+GO:0071383	cellular response to steroid hormone stimulus	288	3	0.000e+00	+	0.007713
+GO:0043401	steroid hormone mediated signaling pathway	288	3	0.000e+00	+	0.007713
+GO:0033993	response to lipid	288	3	0.000e+00	+	0.007713
+GO:0048545	response to steroid hormone stimulus	288	3	0.000e+00	+	0.007713
+GO:0009755	hormone-mediated signaling pathway	290	3	0.000e+00	+	0.007870
+GO:0071421	manganese ion transmembrane transport	1	1	0.000e+00	+	0.008174
+GO:0046294	formaldehyde catabolic process	1	1	0.000e+00	+	0.008174
+GO:0046292	formaldehyde metabolic process	1	1	0.000e+00	+	0.008174
+GO:0046185	aldehyde catabolic process	1	1	0.000e+00	+	0.008174
+GO:0043457	regulation of cellular respiration	1	1	0.000e+00	+	0.008174
+GO:0051592	response to calcium ion	1	1	0.000e+00	+	0.008174
+GO:0006828	manganese ion transport	1	1	0.000e+00	+	0.008174
+GO:0045920	negative regulation of exocytosis	1	1	0.000e+00	+	0.008174
+GO:0071407	cellular response to organic cyclic compound	295	3	0.000e+00	+	0.008270
+GO:0014070	response to organic cyclic compound	295	3	0.000e+00	+	0.008270
+GO:0009725	response to hormone stimulus	299	3	0.000e+00	+	0.008600
+GO:0032870	cellular response to hormone stimulus	299	3	0.000e+00	+	0.008600
+
+#AGCGRAGGACGA
+#EMBRYOintergenicDHS_0.025_GOsignificant
+
+GO:0065007	biological regulation	3584	15	0.000e+00	+	0.000029
+GO:0050794	regulation of cellular process	2411	12	0.000e+00	+	0.000122
+GO:0050789	regulation of biological process	3069	13	0.000e+00	+	0.000233
+GO:0048856	anatomical structure development	3846	14	0.000e+00	+	0.000489
+GO:0009987	cellular process	5920	17	0.000e+00	+	0.000639
+GO:0031323	regulation of cellular metabolic process	1115	8	0.000e+00	+	0.000654
+GO:0080090	regulation of primary metabolic process	1177	8	0.000e+00	+	0.000965
+GO:0051174	regulation of phosphorus metabolic process	204	4	0.000e+00	+	0.002290
+GO:0019220	regulation of phosphate metabolic process	204	4	0.000e+00	+	0.002290
+GO:0008150	biological_process	10081	21	0.000e+00	+	0.002545
+GO:0019222	regulation of metabolic process	1363	8	0.000e+00	+	0.002727
+GO:0009966	regulation of signal transduction	220	4	0.000e+00	+	0.003058
+GO:0044237	cellular metabolic process	3318	12	0.000e+00	+	0.003226
+GO:0032502	developmental process	4574	14	0.000e+00	+	0.003698
+GO:0032501	multicellular organismal process	4707	14	0.000e+00	+	0.005122
+GO:0010646	regulation of cell communication	265	4	0.000e+00	+	0.006217
+GO:0023051	regulation of signaling	265	4	0.000e+00	+	0.006217
+GO:0002119	nematode larval development	1993	9	0.000e+00	+	0.006630
+GO:0002164	larval development	1995	9	0.000e+00	+	0.006681
+GO:0009791	post-embryonic development	2012	9	0.000e+00	+	0.007124
+GO:0009154	purine ribonucleotide catabolic process	278	4	0.000e+00	+	0.007453
+GO:0006195	purine nucleotide catabolic process	278	4	0.000e+00	+	0.007453
+GO:0009261	ribonucleotide catabolic process	278	4	0.000e+00	+	0.007453
+GO:0072523	purine-containing compound catabolic process	280	4	0.000e+00	+	0.007658
+GO:0009166	nucleotide catabolic process	284	4	0.000e+00	+	0.008080
+GO:0006810	transport	2056	9	0.000e+00	+	0.008390
+GO:0050790	regulation of catalytic activity	291	4	0.000e+00	+	0.008858
+GO:0046434	organophosphate catabolic process	296	4	0.000e+00	+	0.009446
+
+#CTTGTACGGAA
+#EMBRYOintergenicDHS_0.05_GOsignificant
+
+GO:0033275	actin-myosin filament sliding	1	1	0.000e+00	+	0.003746
+GO:0034220	ion transmembrane transport	395	3	0.000e+00	+	0.007308
+
+#CTYCAGCTCC
+#EMBRYOintergenicDHS_0.05_GOsignificant
+
+GO:0051234	establishment of localization	2128	11	0.000e+00	+	0.000032
+GO:0006810	transport	2056	10	0.000e+00	+	0.000230
+GO:0006811	ion transport	551	6	0.000e+00	+	0.000333
+GO:0051179	localization	2763	11	0.000e+00	+	0.000430
+GO:0051693	actin filament capping	6	2	0.000e+00	+	0.000517
+GO:0006812	cation transport	357	5	0.000e+00	+	0.000632
+GO:0023052	signaling	1350	8	0.000e+00	+	0.000682
+GO:0030835	negative regulation of actin filament depolymerization	7	2	0.000e+00	+	0.000703
+GO:0007154	cell communication	1374	8	0.000e+00	+	0.000775
+GO:0009987	cellular process	5920	15	0.000e+00	+	0.000808
+GO:0031333	negative regulation of protein complex assembly	8	2	0.000e+00	+	0.000917
+GO:0030837	negative regulation of actin filament polymerization	8	2	0.000e+00	+	0.000917
+GO:0030834	regulation of actin filament depolymerization	8	2	0.000e+00	+	0.000917
+GO:0032272	negative regulation of protein polymerization	8	2	0.000e+00	+	0.000917
+GO:0034220	ion transmembrane transport	395	5	0.000e+00	+	0.001023
+GO:0015672	monovalent inorganic cation transport	218	4	0.000e+00	+	0.001714
+GO:0055085	transmembrane transport	738	6	0.000e+00	+	0.001722
+GO:0043242	negative regulation of protein complex disassembly	11	2	0.000e+00	+	0.001731
+GO:0050896	response to stimulus	2110	9	0.000e+00	+	0.002362
+GO:0051494	negative regulation of cytoskeleton organization	13	2	0.000e+00	+	0.002415
+GO:0009056	catabolic process	800	6	0.000e+00	+	0.002692
+GO:0043244	regulation of protein complex disassembly	16	2	0.000e+00	+	0.003652
+GO:0007268	synaptic transmission	105	3	0.000e+00	+	0.004561
+GO:0008064	regulation of actin polymerization or depolymerization	19	2	0.000e+00	+	0.005141
+GO:0030833	regulation of actin filament polymerization	19	2	0.000e+00	+	0.005141
+GO:0030832	regulation of actin filament length	19	2	0.000e+00	+	0.005141
+GO:0065007	biological regulation	3584	11	0.000e+00	+	0.005142
+GO:0043254	regulation of protein complex assembly	20	2	0.000e+00	+	0.005693
+GO:0032271	regulation of protein polymerization	20	2	0.000e+00	+	0.005693
+GO:0016192	vesicle-mediated transport	930	6	0.000e+00	+	0.006146
+GO:0015991	ATP hydrolysis coupled proton transport	21	2	0.000e+00	+	0.006273
+GO:0015988	energy coupled proton transport, against electrochemical gradient	21	2	0.000e+00	+	0.006273
+GO:0050794	regulation of cellular process	2411	9	0.000e+00	+	0.006693
+GO:0010639	negative regulation of organelle organization	22	2	0.000e+00	+	0.006881
+GO:0007267	cell-cell signaling	122	3	0.000e+00	+	0.007079
+GO:0040013	negative regulation of locomotion	23	2	0.000e+00	+	0.007516
+GO:0007271	synaptic transmission, cholinergic	23	2	0.000e+00	+	0.007516
+GO:0050789	regulation of biological process	3069	10	0.000e+00	+	0.007665
+GO:0048519	negative regulation of biological process	609	5	0.000e+00	+	0.007812
+
+#GGTCTCGCCRC
+#EMBRYOintergenicDHS_0.025_GOsignificant
+GO:0009058	biosynthetic process	1385	23	0.000e+00	+	0.000000
+GO:0006810	transport	2056	26	0.000e+00	+	0.000000
+GO:0051234	establishment of localization	2128	26	0.000e+00	+	0.000000
+GO:0044249	cellular biosynthetic process	1318	21	0.000e+00	+	0.000000
+GO:0044238	primary metabolic process	3725	31	0.000e+00	+	0.000000
+GO:0000003	reproduction	2674	27	0.000e+00	+	0.000000
+GO:0071704	organic substance metabolic process	3809	31	0.000e+00	+	0.000000
+GO:0009792	embryo development ending in birth or egg hatching	2971	28	0.000e+00	+	0.000000
+GO:0009790	embryo development	3028	28	0.000e+00	+	0.000000
+GO:0007275	multicellular organismal development	4288	32	0.000e+00	+	0.000000
+GO:0006898	receptor-mediated endocytosis	723	16	0.000e+00	+	0.000000
+GO:0008152	metabolic process	5122	34	0.000e+00	+	0.000000
+GO:0002119	nematode larval development	1993	23	0.000e+00	+	0.000000
+GO:0002164	larval development	1995	23	0.000e+00	+	0.000000
+GO:0009791	post-embryonic development	2012	23	0.000e+00	+	0.000000
+GO:0051179	localization	2763	26	0.000e+00	+	0.000000
+GO:0044237	cellular metabolic process	3318	28	0.000e+00	+	0.000000
+GO:0022414	reproductive process	1454	20	0.000e+00	+	0.000000
+GO:0032502	developmental process	4574	32	0.000e+00	+	0.000000
+GO:0006897	endocytosis	825	16	0.000e+00	+	0.000000
+GO:0034645	cellular macromolecule biosynthetic process	996	17	0.000e+00	+	0.000000
+GO:0009059	macromolecule biosynthetic process	1003	17	0.000e+00	+	0.000000
+GO:0032501	multicellular organismal process	4707	32	0.000e+00	+	0.000000
+GO:0009987	cellular process	5920	35	0.000e+00	+	0.000000
+GO:0016192	vesicle-mediated transport	930	16	0.000e+00	+	0.000000
+GO:0006139	nucleobase-containing compound metabolic process	1570	19	0.000e+00	+	0.000000
+GO:0048856	anatomical structure development	3846	28	0.000e+00	+	0.000000
+GO:0065007	biological regulation	3584	27	0.000e+00	+	0.000000
+GO:0006725	cellular aromatic compound metabolic process	1612	19	0.000e+00	+	0.000000
+GO:0046483	heterocycle metabolic process	1620	19	0.000e+00	+	0.000000
+GO:0006807	nitrogen compound metabolic process	1845	20	0.000e+00	+	0.000000
+GO:0043170	macromolecule metabolic process	2839	24	0.000e+00	+	0.000000
+GO:0044260	cellular macromolecule metabolic process	2332	22	0.000e+00	+	0.000000
+GO:0034641	cellular nitrogen compound metabolic process	1660	19	0.000e+00	+	0.000000
+GO:0044267	cellular protein metabolic process	1274	17	0.000e+00	+	0.000000
+GO:0003006	developmental process involved in reproduction	1135	16	0.000e+00	+	0.000000
+GO:0019538	protein metabolic process	1760	19	0.000e+00	+	0.000000
+GO:0040011	locomotion	1568	18	0.000e+00	+	0.000000
+GO:0050789	regulation of biological process	3069	24	0.000e+00	+	0.000000
+GO:0044271	cellular nitrogen compound biosynthetic process	775	13	0.000e+00	+	0.000001
+GO:0008150	biological_process	10081	41	0.000e+00	+	0.000001
+GO:0090304	nucleic acid metabolic process	1129	15	0.000e+00	+	0.000001
+GO:0016265	death	508	11	0.000e+00	+	0.000001
+GO:0008219	cell death	508	11	0.000e+00	+	0.000001
+GO:0048608	reproductive structure development	850	13	0.000e+00	+	0.000002
+GO:0007548	sex differentiation	857	13	0.000e+00	+	0.000002
+GO:0019953	sexual reproduction	560	11	0.000e+00	+	0.000002
+GO:0010467	gene expression	1043	14	0.000e+00	+	0.000003
+GO:0040035	hermaphrodite genitalia development	730	12	0.000e+00	+	0.000004
+GO:0048806	genitalia development	736	12	0.000e+00	+	0.000004
+
+#GWACTTTTGAA
+#EMBRYOintergenicDHS_0.05_GOsignificant
+
+GO:0018107	peptidyl-threonine phosphorylation	9	2	0.000e+00	+	0.000021
+GO:0045165	cell fate commitment	128	3	0.000e+00	+	0.000026
+GO:0018210	peptidyl-threonine modification	12	2	0.000e+00	+	0.000037
+GO:0018209	peptidyl-serine modification	16	2	0.000e+00	+	0.000067
+GO:0018105	peptidyl-serine phosphorylation	16	2	0.000e+00	+	0.000067
+GO:0006796	phosphate-containing compound metabolic process	1236	4	0.000e+00	+	0.000685
+GO:0006793	phosphorus metabolic process	1251	4	0.000e+00	+	0.000719
+GO:0006468	protein phosphorylation	429	3	0.000e+00	+	0.000970
+GO:0016310	phosphorylation	548	3	0.000e+00	+	0.002004
+GO:0045732	positive regulation of protein catabolic process	3	1	0.000e+00	+	0.008028
+GO:0046513	ceramide biosynthetic process	3	1	0.000e+00	+	0.008028
+GO:0030154	cell differentiation	889	3	0.000e+00	+	0.008340
+GO:0006464	cellular protein modification process	894	3	0.000e+00	+	0.008478
+GO:0036211	protein modification process	894	3	0.000e+00	+	0.008478
+GO:0018193	peptidyl-amino acid modification	185	2	0.000e+00	+	0.008757
+GO:0048869	cellular developmental process	936	3	0.000e+00	+	0.009700
+
+#TATTTYAAAAA
+#EMBRYOintergenicDHS_0.05_GOsignificant
+
+GO:0032862	activation of Rho GTPase activity	2	1	0.000e+00	+	0.004670
+GO:0007165	signal transduction	1258	4	0.000e+00	+	0.004830
+GO:0023052	signaling	1350	4	0.000e+00	+	0.006310
+GO:0007154	cell communication	1374	4	0.000e+00	+	0.006745
+GO:0032856	activation of Ras GTPase activity	3	1	0.000e+00	+	0.007004
+GO:0051716	cellular response to stimulus	1432	4	0.000e+00	+	0.007883
+
+#CGCGACGCR
+#EMBRYOpromoterDHS_0.05_GOsignificant
+
+GO:0007568	aging	803	14	0.000e+00	+	0.000000
+GO:0010259	multicellular organismal aging	803	14	0.000e+00	+	0.000000
+GO:0008340	determination of adult lifespan	803	14	0.000e+00	+	0.000000
+GO:0003006	developmental process involved in reproduction	1135	15	0.000e+00	+	0.000000
+GO:0048513	organ development	963	14	0.000e+00	+	0.000000
+GO:0000003	reproduction	2674	21	0.000e+00	+	0.000000
+GO:0048608	reproductive structure development	850	13	0.000e+00	+	0.000000
+GO:0007548	sex differentiation	857	13	0.000e+00	+	0.000000
+GO:0002119	nematode larval development	1993	18	0.000e+00	+	0.000000
+GO:0002164	larval development	1995	18	0.000e+00	+	0.000000
+GO:0009791	post-embryonic development	2012	18	0.000e+00	+	0.000000
+GO:0006139	nucleobase-containing compound metabolic process	1570	16	0.000e+00	+	0.000000
+GO:0009792	embryo development ending in birth or egg hatching	2971	21	0.000e+00	+	0.000001
+GO:0006807	nitrogen compound metabolic process	1845	17	0.000e+00	+	0.000001
+GO:0006725	cellular aromatic compound metabolic process	1612	16	0.000e+00	+	0.000001
+GO:0009790	embryo development	3028	21	0.000e+00	+	0.000001
+GO:0046483	heterocycle metabolic process	1620	16	0.000e+00	+	0.000001
+GO:0007276	gamete generation	481	10	0.000e+00	+	0.000001
+GO:0048731	system development	1196	14	0.000e+00	+	0.000001
+GO:0034641	cellular nitrogen compound metabolic process	1660	16	0.000e+00	+	0.000001
+GO:0022414	reproductive process	1454	15	0.000e+00	+	0.000001
+GO:0019953	sexual reproduction	560	10	0.000e+00	+	0.000004
+GO:0040011	locomotion	1568	15	0.000e+00	+	0.000004
+GO:0040035	hermaphrodite genitalia development	730	11	0.000e+00	+	0.000004
+GO:0051704	multi-organism process	919	12	0.000e+00	+	0.000004
+GO:0048806	genitalia development	736	11	0.000e+00	+	0.000004
+GO:0090304	nucleic acid metabolic process	1129	13	0.000e+00	+	0.000005
+GO:0043170	macromolecule metabolic process	2839	19	0.000e+00	+	0.000010
+GO:0030154	cell differentiation	889	11	0.000e+00	+	0.000029
+GO:0044238	primary metabolic process	3725	21	0.000e+00	+	0.000029
+GO:0071704	organic substance metabolic process	3809	21	0.000e+00	+	0.000043
+GO:0048869	cellular developmental process	936	11	0.000e+00	+	0.000047
+GO:0048856	anatomical structure development	3846	21	0.000e+00	+	0.000051
+GO:0048610	cellular process involved in reproduction	587	9	0.000e+00	+	0.000065
+GO:0007275	multicellular organismal development	4288	22	0.000e+00	+	0.000067
+GO:0044248	cellular catabolic process	590	9	0.000e+00	+	0.000068
+GO:0040007	growth	188	6	0.000e+00	+	0.000078
+GO:0048609	multicellular organismal reproductive process	791	10	0.000e+00	+	0.000086
+GO:0032504	multicellular organism reproduction	795	10	0.000e+00	+	0.000090
+GO:0009056	catabolic process	800	10	0.000e+00	+	0.000095
+GO:0044260	cellular macromolecule metabolic process	2332	16	0.000e+00	+	0.000114
+GO:0019538	protein metabolic process	1760	14	0.000e+00	+	0.000115
+GO:0044237	cellular metabolic process	3318	19	0.000e+00	+	0.000120
+GO:0006897	endocytosis	825	10	0.000e+00	+	0.000125
+GO:0006508	proteolysis	472	8	0.000e+00	+	0.000134
+GO:0010467	gene expression	1043	11	0.000e+00	+	0.000136
+GO:0034655	nucleobase-containing compound catabolic process	343	7	0.000e+00	+	0.000184
+GO:0044249	cellular biosynthetic process	1318	12	0.000e+00	+	0.000195
+GO:0032502	developmental process	4574	22	0.000e+00	+	0.000208
+GO:0019439	aromatic compound catabolic process	355	7	0.000e+00	+	0.000230
+
+#CGTAAATCKAC
+#EMBRYOpromoterDHS_0.05_GOsignificant
+
+GO:0009792	embryo development ending in birth or egg hatching	2971	16	0.000e+00	+	0.000002
+GO:0009790	embryo development	3028	16	0.000e+00	+	0.000003
+GO:0032501	multicellular organismal process	4707	19	0.000e+00	+	0.000005
+GO:0007275	multicellular organismal development	4288	18	0.000e+00	+	0.000009
+GO:0006412	translation	229	6	0.000e+00	+	0.000012
+GO:0032502	developmental process	4574	18	0.000e+00	+	0.000025
+GO:0002119	nematode larval development	1993	12	0.000e+00	+	0.000074
+GO:0002164	larval development	1995	12	0.000e+00	+	0.000075
+GO:0044237	cellular metabolic process	3318	15	0.000e+00	+	0.000081
+GO:0009791	post-embryonic development	2012	12	0.000e+00	+	0.000082
+GO:0048856	anatomical structure development	3846	16	0.000e+00	+	0.000089
+GO:0010467	gene expression	1043	9	0.000e+00	+	0.000113
+GO:0000003	reproduction	2674	13	0.000e+00	+	0.000256
+GO:0044260	cellular macromolecule metabolic process	2332	12	0.000e+00	+	0.000381
+GO:0008150	biological_process	10081	24	0.000e+00	+	0.000411
+GO:0043170	macromolecule metabolic process	2839	13	0.000e+00	+	0.000496
+GO:0044267	cellular protein metabolic process	1274	9	0.000e+00	+	0.000568
+GO:0034641	cellular nitrogen compound metabolic process	1660	10	0.000e+00	+	0.000688
+GO:0006810	transport	2056	11	0.000e+00	+	0.000710
+GO:0034645	cellular macromolecule biosynthetic process	996	8	0.000e+00	+	0.000736
+GO:0009059	macromolecule biosynthetic process	1003	8	0.000e+00	+	0.000774
+GO:0008152	metabolic process	5122	17	0.000e+00	+	0.000809
+GO:0040035	hermaphrodite genitalia development	730	7	0.000e+00	+	0.000846
+GO:0048806	genitalia development	736	7	0.000e+00	+	0.000891
+GO:0051234	establishment of localization	2128	11	0.000e+00	+	0.000981
+GO:0019538	protein metabolic process	1760	10	0.000e+00	+	0.001140
+GO:0009987	cellular process	5920	18	0.000e+00	+	0.001263
+GO:0006807	nitrogen compound metabolic process	1845	10	0.000e+00	+	0.001705
+GO:0006897	endocytosis	825	7	0.000e+00	+	0.001834
+GO:0044238	primary metabolic process	3725	14	0.000e+00	+	0.001895
+GO:0048608	reproductive structure development	850	7	0.000e+00	+	0.002211
+GO:0007548	sex differentiation	857	7	0.000e+00	+	0.002328
+GO:0071704	organic substance metabolic process	3809	14	0.000e+00	+	0.002441
+GO:0006139	nucleobase-containing compound metabolic process	1570	9	0.000e+00	+	0.002910
+GO:0006725	cellular aromatic compound metabolic process	1612	9	0.000e+00	+	0.003564
+GO:0046483	heterocycle metabolic process	1620	9	0.000e+00	+	0.003701
+GO:0016192	vesicle-mediated transport	930	7	0.000e+00	+	0.003870
+GO:0048513	organ development	963	7	0.000e+00	+	0.004799
+GO:0046928	regulation of neurotransmitter secretion	16	2	0.000e+00	+	0.005252
+GO:0051588	regulation of neurotransmitter transport	16	2	0.000e+00	+	0.005252
+GO:0044249	cellular biosynthetic process	1318	8	0.000e+00	+	0.005256
+GO:0051239	regulation of multicellular organismal process	720	6	0.000e+00	+	0.007251
+GO:0009058	biosynthetic process	1385	8	0.000e+00	+	0.007378
+GO:0006898	receptor-mediated endocytosis	723	6	0.000e+00	+	0.007414
+GO:0051641	cellular localization	462	5	0.000e+00	+	0.007668
+
+#GCRGCCGACA
+#EMBRYOpromoterDHS_0.05_GOsignificant
+
+GO:0006810	transport	2056	9	0.000e+00	+	0.000962
+GO:0051234	establishment of localization	2128	9	0.000e+00	+	0.001263
+GO:0051179	localization	2763	10	0.000e+00	+	0.001563
+GO:0065008	regulation of biological quality	852	6	0.000e+00	+	0.001904
+GO:0019915	lipid storage	559	5	0.000e+00	+	0.002625
+GO:0016192	vesicle-mediated transport	930	6	0.000e+00	+	0.003073
+GO:0051235	maintenance of location	580	5	0.000e+00	+	0.003116
+GO:0010876	lipid localization	589	5	0.000e+00	+	0.003346
+GO:0033036	macromolecule localization	948	6	0.000e+00	+	0.003411
+GO:0061024	membrane organization	148	3	0.000e+00	+	0.006218
+
+#AGGYAGGCR
+#EMBRYOpromoterDHS_0.05_GOsignificant
+
+GO:0007275	multicellular organismal development	4288	29	0.000e+00	+	0.000000
+GO:0032501	multicellular organismal process	4707	30	0.000e+00	+	0.000000
+GO:0032502	developmental process	4574	29	0.000e+00	+	0.000000
+GO:0051234	establishment of localization	2128	20	0.000e+00	+	0.000000
+GO:0006810	transport	2056	19	0.000e+00	+	0.000001
+GO:0008150	biological_process	10081	40	0.000e+00	+	0.000004
+GO:0008152	metabolic process	5122	28	0.000e+00	+	0.000011
+GO:0009987	cellular process	5920	30	0.000e+00	+	0.000015
+GO:0048856	anatomical structure development	3846	24	0.000e+00	+	0.000016
+GO:0000003	reproduction	2674	20	0.000e+00	+	0.000016
+GO:0009792	embryo development ending in birth or egg hatching	2971	21	0.000e+00	+	0.000017
+GO:0009790	embryo development	3028	21	0.000e+00	+	0.000024
+GO:0051179	localization	2763	20	0.000e+00	+	0.000027
+GO:0002119	nematode larval development	1993	17	0.000e+00	+	0.000029
+GO:0002164	larval development	1995	17	0.000e+00	+	0.000029
+GO:0016192	vesicle-mediated transport	930	12	0.000e+00	+	0.000030
+GO:0009791	post-embryonic development	2012	17	0.000e+00	+	0.000033
+GO:0044238	primary metabolic process	3725	23	0.000e+00	+	0.000040
+GO:0071704	organic substance metabolic process	3809	23	0.000e+00	+	0.000060
+GO:0022414	reproductive process	1454	14	0.000e+00	+	0.000095
+GO:0044237	cellular metabolic process	3318	21	0.000e+00	+	0.000112
+GO:0044267	cellular protein metabolic process	1274	13	0.000e+00	+	0.000128
+GO:0006898	receptor-mediated endocytosis	723	10	0.000e+00	+	0.000163
+GO:0019538	protein metabolic process	1760	15	0.000e+00	+	0.000167
+GO:0043170	macromolecule metabolic process	2839	19	0.000e+00	+	0.000195
+GO:0044260	cellular macromolecule metabolic process	2332	17	0.000e+00	+	0.000252
+GO:0006807	nitrogen compound metabolic process	1845	15	0.000e+00	+	0.000298
+GO:0034641	cellular nitrogen compound metabolic process	1660	14	0.000e+00	+	0.000440
+GO:0006897	endocytosis	825	10	0.000e+00	+	0.000516
+GO:0009653	anatomical structure morphogenesis	1053	11	0.000e+00	+	0.000705
+GO:0016043	cellular component organization	1328	12	0.000e+00	+	0.001140
+GO:0071822	protein complex subunit organization	399	7	0.000e+00	+	0.001261
+GO:0051704	multi-organism process	919	10	0.000e+00	+	0.001302
+GO:0071840	cellular component organization or biogenesis	1393	12	0.000e+00	+	0.001822
+GO:0043933	macromolecular complex subunit organization	435	7	0.000e+00	+	0.002174
+GO:0022607	cellular component assembly	450	7	0.000e+00	+	0.002688
+GO:0007568	aging	803	9	0.000e+00	+	0.002766
+GO:0010259	multicellular organismal aging	803	9	0.000e+00	+	0.002766
+GO:0008340	determination of adult lifespan	803	9	0.000e+00	+	0.002766
+GO:0006796	phosphate-containing compound metabolic process	1236	11	0.000e+00	+	0.003055
+GO:0043623	cellular protein complex assembly	192	5	0.000e+00	+	0.003123
+GO:0051641	cellular localization	462	7	0.000e+00	+	0.003168
+GO:0006793	phosphorus metabolic process	1251	11	0.000e+00	+	0.003404
+GO:0048608	reproductive structure development	850	9	0.000e+00	+	0.004270
+GO:0007548	sex differentiation	857	9	0.000e+00	+	0.004544
+GO:0044085	cellular component biogenesis	521	7	0.000e+00	+	0.006656
+GO:0006725	cellular aromatic compound metabolic process	1612	12	0.000e+00	+	0.007387
+GO:0003006	developmental process involved in reproduction	1135	10	0.000e+00	+	0.007541
+GO:0046483	heterocycle metabolic process	1620	12	0.000e+00	+	0.007739
+GO:0009058	biosynthetic process	1385	11	0.000e+00	+	0.008381
+
+#CCCCCCCYCCC
+#EMBRYOpromoterDHS_0.025_GOsignificant
+
+GO:0071704	organic substance metabolic process	3809	50	0.000e+00	+	0.000000
+GO:0008152	metabolic process	5122	56	0.000e+00	+	0.000000
+GO:0044238	primary metabolic process	3725	48	0.000e+00	+	0.000000
+GO:0009987	cellular process	5920	59	0.000e+00	+	0.000000
+GO:0008150	biological_process	10081	75	0.000e+00	+	0.000000
+GO:0044237	cellular metabolic process	3318	43	0.000e+00	+	0.000000
+GO:0002119	nematode larval development	1993	33	0.000e+00	+	0.000000
+GO:0009792	embryo development ending in birth or egg hatching	2971	40	0.000e+00	+	0.000000
+GO:0002164	larval development	1995	33	0.000e+00	+	0.000000
+GO:0009791	post-embryonic development	2012	33	0.000e+00	+	0.000000
+GO:0009790	embryo development	3028	40	0.000e+00	+	0.000000
+GO:0040011	locomotion	1568	29	0.000e+00	+	0.000000
+GO:0032502	developmental process	4574	49	0.000e+00	+	0.000000
+GO:0007275	multicellular organismal development	4288	47	0.000e+00	+	0.000000
+GO:0032501	multicellular organismal process	4707	49	0.000e+00	+	0.000000
+GO:0048856	anatomical structure development	3846	44	0.000e+00	+	0.000000
+GO:0065007	biological regulation	3584	42	0.000e+00	+	0.000000
+GO:0048609	multicellular organismal reproductive process	791	20	0.000e+00	+	0.000000
+GO:0050789	regulation of biological process	3069	38	0.000e+00	+	0.000000
+GO:0032504	multicellular organism reproduction	795	20	0.000e+00	+	0.000000
+GO:0043170	macromolecule metabolic process	2839	36	0.000e+00	+	0.000000
+GO:0009058	biosynthetic process	1385	25	0.000e+00	+	0.000000
+GO:0044260	cellular macromolecule metabolic process	2332	32	0.000e+00	+	0.000000
+GO:0006810	transport	2056	30	0.000e+00	+	0.000000
+GO:0044249	cellular biosynthetic process	1318	24	0.000e+00	+	0.000000
+GO:0000003	reproduction	2674	34	0.000e+00	+	0.000000
+GO:0007610	behavior	463	15	0.000e+00	+	0.000000
+GO:0051234	establishment of localization	2128	30	0.000e+00	+	0.000000
+GO:0051704	multi-organism process	919	20	0.000e+00	+	0.000000
+GO:0033057	multicellular organismal reproductive behavior	340	13	0.000e+00	+	0.000000
+GO:0019098	reproductive behavior	343	13	0.000e+00	+	0.000000
+GO:0044281	small molecule metabolic process	856	19	0.000e+00	+	0.000000
+GO:0051705	behavioral interaction between organisms	345	13	0.000e+00	+	0.000000
+GO:0022414	reproductive process	1454	24	0.000e+00	+	0.000000
+GO:0006807	nitrogen compound metabolic process	1845	27	0.000e+00	+	0.000000
+GO:0006796	phosphate-containing compound metabolic process	1236	22	0.000e+00	+	0.000000
+GO:0006793	phosphorus metabolic process	1251	22	0.000e+00	+	0.000001
+GO:0051239	regulation of multicellular organismal process	720	17	0.000e+00	+	0.000001
+GO:0051179	localization	2763	33	0.000e+00	+	0.000001
+GO:0048518	positive regulation of biological process	737	17	0.000e+00	+	0.000001
+GO:0034641	cellular nitrogen compound metabolic process	1660	25	0.000e+00	+	0.000001
+GO:0018991	oviposition	326	12	0.000e+00	+	0.000001
+GO:0018996	molting cycle, collagen and cuticulin-based cuticle	278	11	0.000e+00	+	0.000002
+GO:0042303	molting cycle	278	11	0.000e+00	+	0.000002
+GO:0006725	cellular aromatic compound metabolic process	1612	24	0.000e+00	+	0.000002
+GO:0046483	heterocycle metabolic process	1620	24	0.000e+00	+	0.000003
+GO:0009653	anatomical structure morphogenesis	1053	19	0.000e+00	+	0.000005
+GO:0050794	regulation of cellular process	2411	29	0.000e+00	+	0.000006
+GO:0006139	nucleobase-containing compound metabolic process	1570	23	0.000e+00	+	0.000007
+GO:0055086	nucleobase-containing small molecule metabolic process	488	13	0.000e+00	+	0.000010
+
+#AATTTGAATTTY
+#EMBRYOintronDHS_0.025_GOsignificant
+
+GO:0071840	cellular component organization or biogenesis	1393	15	0.000e+00	+	0.000000
+GO:0016043	cellular component organization	1328	14	0.000e+00	+	0.000002
+GO:0032502	developmental process	4574	23	0.000e+00	+	0.000011
+GO:0009987	cellular process	5920	26	0.000e+00	+	0.000011
+GO:0044085	cellular component biogenesis	521	9	0.000e+00	+	0.000014
+GO:0048869	cellular developmental process	936	11	0.000e+00	+	0.000025
+GO:0044238	primary metabolic process	3725	20	0.000e+00	+	0.000048
+GO:0022607	cellular component assembly	450	8	0.000e+00	+	0.000059
+GO:0032989	cellular component morphogenesis	308	7	0.000e+00	+	0.000060
+GO:0071704	organic substance metabolic process	3809	20	0.000e+00	+	0.000070
+GO:0009653	anatomical structure morphogenesis	1053	11	0.000e+00	+	0.000080
+GO:0006807	nitrogen compound metabolic process	1845	14	0.000e+00	+	0.000093
+GO:0008150	biological_process	10081	32	0.000e+00	+	0.000113
+GO:0002119	nematode larval development	1993	14	0.000e+00	+	0.000232
+GO:0002164	larval development	1995	14	0.000e+00	+	0.000235
+GO:0008380	RNA splicing	61	4	0.000e+00	+	0.000242
+GO:0009791	post-embryonic development	2012	14	0.000e+00	+	0.000259
+GO:0048856	anatomical structure development	3846	19	0.000e+00	+	0.000403
+GO:0040011	locomotion	1568	12	0.000e+00	+	0.000600
+GO:0006139	nucleobase-containing compound metabolic process	1570	12	0.000e+00	+	0.000607
+GO:0006725	cellular aromatic compound metabolic process	1612	12	0.000e+00	+	0.000793
+GO:0046483	heterocycle metabolic process	1620	12	0.000e+00	+	0.000834
+GO:0006397	mRNA processing	88	4	0.000e+00	+	0.001012
+GO:0044237	cellular metabolic process	3318	17	0.000e+00	+	0.001044
+GO:0034641	cellular nitrogen compound metabolic process	1660	12	0.000e+00	+	0.001065
+GO:0030154	cell differentiation	889	9	0.000e+00	+	0.001116
+GO:0065003	macromolecular complex assembly	324	6	0.000e+00	+	0.001197
+GO:0000003	reproduction	2674	15	0.000e+00	+	0.001446
+GO:0006810	transport	2056	13	0.000e+00	+	0.001792
+GO:0048731	system development	1196	10	0.000e+00	+	0.001845
+GO:0008152	metabolic process	5122	21	0.000e+00	+	0.001867
+GO:0019538	protein metabolic process	1760	12	0.000e+00	+	0.001906
+GO:0006396	RNA processing	212	5	0.000e+00	+	0.001974
+GO:0048513	organ development	963	9	0.000e+00	+	0.002087
+GO:0070925	organelle assembly	215	5	0.000e+00	+	0.002109
+GO:0051179	localization	2763	15	0.000e+00	+	0.002137
+GO:0051234	establishment of localization	2128	13	0.000e+00	+	0.002575
+GO:0016071	mRNA metabolic process	115	4	0.000e+00	+	0.002851
+GO:0043170	macromolecule metabolic process	2839	15	0.000e+00	+	0.002946
+GO:0006886	intracellular protein transport	117	4	0.000e+00	+	0.003047
+GO:0071702	organic substance transport	387	6	0.000e+00	+	0.003204
+GO:0015031	protein transport	244	5	0.000e+00	+	0.003824
+GO:0010467	gene expression	1043	9	0.000e+00	+	0.003868
+GO:0007568	aging	803	8	0.000e+00	+	0.003869
+GO:0010259	multicellular organismal aging	803	8	0.000e+00	+	0.003869
+GO:0008340	determination of adult lifespan	803	8	0.000e+00	+	0.003869
+GO:0035150	regulation of tube size	7	2	0.000e+00	+	0.003911
+GO:0045184	establishment of protein localization	252	5	0.000e+00	+	0.004446
+GO:0034622	cellular macromolecular complex assembly	258	5	0.000e+00	+	0.004963
+GO:0048608	reproductive structure development	850	8	0.000e+00	+	0.005741
+
+#ACCGCRMCGC
+#EMBRYOintronDHS_0.025_GOsignificant
+
+GO:0009966	regulation of signal transduction	220	8	0.000e+00	+	0.000000
+GO:0010646	regulation of cell communication	265	8	0.000e+00	+	0.000002
+GO:0023051	regulation of signaling	265	8	0.000e+00	+	0.000002
+GO:0051174	regulation of phosphorus metabolic process	204	7	0.000e+00	+	0.000007
+GO:0019220	regulation of phosphate metabolic process	204	7	0.000e+00	+	0.000007
+GO:0040011	locomotion	1568	15	0.000e+00	+	0.000007
+GO:0048583	regulation of response to stimulus	316	8	0.000e+00	+	0.000008
+GO:0072521	purine-containing compound metabolic process	401	8	0.000e+00	+	0.000046
+GO:0043087	regulation of GTPase activity	119	5	0.000e+00	+	0.000168
+GO:0033124	regulation of GTP catabolic process	121	5	0.000e+00	+	0.000182
+GO:0055086	nucleobase-containing small molecule metabolic process	488	8	0.000e+00	+	0.000197
+GO:0033121	regulation of purine nucleotide catabolic process	125	5	0.000e+00	+	0.000213
+GO:0030811	regulation of nucleotide catabolic process	125	5	0.000e+00	+	0.000213
+GO:0009118	regulation of nucleoside metabolic process	127	5	0.000e+00	+	0.000230
+GO:1900542	regulation of purine nucleotide metabolic process	128	5	0.000e+00	+	0.000239
+GO:0006140	regulation of nucleotide metabolic process	128	5	0.000e+00	+	0.000239
+GO:0031329	regulation of cellular catabolic process	138	5	0.000e+00	+	0.000343
+GO:0009150	purine ribonucleotide metabolic process	384	7	0.000e+00	+	0.000420
+GO:0006163	purine nucleotide metabolic process	386	7	0.000e+00	+	0.000434
+GO:0009894	regulation of catabolic process	148	5	0.000e+00	+	0.000480
+GO:0009259	ribonucleotide metabolic process	393	7	0.000e+00	+	0.000487
+GO:0019693	ribose phosphate metabolic process	393	7	0.000e+00	+	0.000487
+GO:0048523	negative regulation of cellular process	285	6	0.000e+00	+	0.000865
+GO:0006796	phosphate-containing compound metabolic process	1236	11	0.000e+00	+	0.000891
+GO:0050790	regulation of catalytic activity	291	6	0.000e+00	+	0.000972
+GO:0006793	phosphorus metabolic process	1251	11	0.000e+00	+	0.000997
+GO:0032319	regulation of Rho GTPase activity	29	3	0.000e+00	+	0.001180
+GO:0009117	nucleotide metabolic process	458	7	0.000e+00	+	0.001294
+GO:0035023	regulation of Rho protein signal transduction	30	3	0.000e+00	+	0.001305
+GO:0044238	primary metabolic process	3725	19	0.000e+00	+	0.001308
+GO:0006753	nucleoside phosphate metabolic process	464	7	0.000e+00	+	0.001405
+GO:0065009	regulation of molecular function	312	6	0.000e+00	+	0.001432
+GO:0071704	organic substance metabolic process	3809	19	0.000e+00	+	0.001805
+GO:0031323	regulation of cellular metabolic process	1115	10	0.000e+00	+	0.002144
+GO:0051056	regulation of small GTPase mediated signal transduction	102	4	0.000e+00	+	0.002177
+GO:0051336	regulation of hydrolase activity	205	5	0.000e+00	+	0.002251
+GO:2000114	regulation of establishment of cell polarity	6	2	0.000e+00	+	0.002845
+GO:0090038	negative regulation of protein kinase C signaling cascade	6	2	0.000e+00	+	0.002845
+GO:0090036	regulation of protein kinase C signaling cascade	6	2	0.000e+00	+	0.002845
+GO:0046128	purine ribonucleoside metabolic process	360	6	0.000e+00	+	0.003149
+GO:0042278	purine nucleoside metabolic process	360	6	0.000e+00	+	0.003149
+GO:0080090	regulation of primary metabolic process	1177	10	0.000e+00	+	0.003373
+GO:0032878	regulation of establishment or maintenance of cell polarity	7	2	0.000e+00	+	0.003867
+GO:0009119	ribonucleoside metabolic process	374	6	0.000e+00	+	0.003878
+GO:0009116	nucleoside metabolic process	377	6	0.000e+00	+	0.004051
+GO:0019637	organophosphate metabolic process	568	7	0.000e+00	+	0.004973
+GO:0050794	regulation of cellular process	2411	14	0.000e+00	+	0.006072
+GO:0044248	cellular catabolic process	590	7	0.000e+00	+	0.006283
+GO:0009056	catabolic process	800	8	0.000e+00	+	0.006527
+GO:0032268	regulation of cellular protein metabolic process	137	4	0.000e+00	+	0.006737
+
+#ACTACAAAMT
+#EMBRYOintronDHS_0.025_GOsignificant
+
+GO:0006897	endocytosis	825	21	0.000e+00	+	0.000000
+GO:0006810	transport	2056	30	0.000e+00	+	0.000000
+GO:0051234	establishment of localization	2128	30	0.000e+00	+	0.000000
+GO:0016192	vesicle-mediated transport	930	21	0.000e+00	+	0.000000
+GO:0006898	receptor-mediated endocytosis	723	19	0.000e+00	+	0.000000
+GO:0051179	localization	2763	32	0.000e+00	+	0.000000
+GO:0007275	multicellular organismal development	4288	38	0.000e+00	+	0.000000
+GO:0009792	embryo development ending in birth or egg hatching	2971	31	0.000e+00	+	0.000000
+GO:0009790	embryo development	3028	31	0.000e+00	+	0.000000
+GO:0032502	developmental process	4574	38	0.000e+00	+	0.000000
+GO:0032501	multicellular organismal process	4707	38	0.000e+00	+	0.000000
+GO:0046483	heterocycle metabolic process	1620	22	0.000e+00	+	0.000000
+GO:0002119	nematode larval development	1993	24	0.000e+00	+	0.000001
+GO:0002164	larval development	1995	24	0.000e+00	+	0.000001
+GO:0009791	post-embryonic development	2012	24	0.000e+00	+	0.000001
+GO:0006807	nitrogen compound metabolic process	1845	23	0.000e+00	+	0.000001
+GO:0065007	biological regulation	3584	32	0.000e+00	+	0.000001
+GO:0006139	nucleobase-containing compound metabolic process	1570	21	0.000e+00	+	0.000001
+GO:0006725	cellular aromatic compound metabolic process	1612	21	0.000e+00	+	0.000002
+GO:0050789	regulation of biological process	3069	29	0.000e+00	+	0.000002
+GO:0010467	gene expression	1043	17	0.000e+00	+	0.000002
+GO:0034641	cellular nitrogen compound metabolic process	1660	21	0.000e+00	+	0.000003
+GO:0048856	anatomical structure development	3846	32	0.000e+00	+	0.000005
+GO:0016265	death	508	12	0.000e+00	+	0.000007
+GO:0008219	cell death	508	12	0.000e+00	+	0.000007
+GO:0034645	cellular macromolecule biosynthetic process	996	16	0.000e+00	+	0.000007
+GO:0009059	macromolecule biosynthetic process	1003	16	0.000e+00	+	0.000008
+GO:0000003	reproduction	2674	26	0.000e+00	+	0.000008
+GO:0051649	establishment of localization in cell	421	11	0.000e+00	+	0.000009
+GO:0044237	cellular metabolic process	3318	29	0.000e+00	+	0.000011
+GO:0051641	cellular localization	462	11	0.000e+00	+	0.000023
+GO:0009058	biosynthetic process	1385	18	0.000e+00	+	0.000024
+GO:0008150	biological_process	10081	53	0.000e+00	+	0.000032
+GO:0044238	primary metabolic process	3725	30	0.000e+00	+	0.000035
+GO:0009987	cellular process	5920	39	0.000e+00	+	0.000038
+GO:0090304	nucleic acid metabolic process	1129	16	0.000e+00	+	0.000040
+GO:0032940	secretion by cell	147	7	0.000e+00	+	0.000044
+GO:0046903	secretion	148	7	0.000e+00	+	0.000046
+GO:0044260	cellular macromolecule metabolic process	2332	23	0.000e+00	+	0.000048
+GO:0071704	organic substance metabolic process	3809	30	0.000e+00	+	0.000058
+GO:0044249	cellular biosynthetic process	1318	17	0.000e+00	+	0.000060
+GO:0016043	cellular component organization	1328	17	0.000e+00	+	0.000067
+GO:0050794	regulation of cellular process	2411	23	0.000e+00	+	0.000086
+GO:0019222	regulation of metabolic process	1363	17	0.000e+00	+	0.000096
+GO:0043170	macromolecule metabolic process	2839	25	0.000e+00	+	0.000107
+GO:0008152	metabolic process	5122	35	0.000e+00	+	0.000113
+GO:0009056	catabolic process	800	13	0.000e+00	+	0.000126
+GO:0071840	cellular component organization or biogenesis	1393	17	0.000e+00	+	0.000129
+GO:0040011	locomotion	1568	18	0.000e+00	+	0.000142
+GO:0031323	regulation of cellular metabolic process	1115	15	0.000e+00	+	0.000184
+
+#CAAATTTTSA
+#EMBRYOintronDHS_0.05_GOsignificant
+
+GO:0051234	establishment of localization	2128	18	0.000e+00	+	0.000003
+GO:0000003	reproduction	2674	20	0.000e+00	+	0.000003
+GO:0006810	transport	2056	17	0.000e+00	+	0.000012
+GO:0009987	cellular process	5920	28	0.000e+00	+	0.000033
+GO:0030472	mitotic spindle organization in nucleus	1	2	0.000e+00	+	0.000081
+GO:0008150	biological_process	10081	36	0.000e+00	+	0.000097
+GO:0071840	cellular component organization or biogenesis	1393	13	0.000e+00	+	0.000128
+GO:0051179	localization	2763	18	0.000e+00	+	0.000161
+GO:0032502	developmental process	4574	23	0.000e+00	+	0.000304
+GO:0016043	cellular component organization	1328	12	0.000e+00	+	0.000465
+GO:0048856	anatomical structure development	3846	20	0.000e+00	+	0.001147
+GO:0043933	macromolecular complex subunit organization	435	7	0.000e+00	+	0.001195
+GO:0019538	protein metabolic process	1760	13	0.000e+00	+	0.001573
+GO:0065007	biological regulation	3584	19	0.000e+00	+	0.001580
+GO:0007275	multicellular organismal development	4288	21	0.000e+00	+	0.001597
+GO:0006897	endocytosis	825	9	0.000e+00	+	0.001676
+GO:0009792	embryo development ending in birth or egg hatching	2971	17	0.000e+00	+	0.001910
+GO:0018208	peptidyl-proline modification	35	3	0.000e+00	+	0.002202
+GO:0009790	embryo development	3028	17	0.000e+00	+	0.002441
+GO:0044238	primary metabolic process	3725	19	0.000e+00	+	0.002734
+GO:0007049	cell cycle	506	7	0.000e+00	+	0.003085
+GO:0007010	cytoskeleton organization	357	6	0.000e+00	+	0.003669
+GO:0071704	organic substance metabolic process	3809	19	0.000e+00	+	0.003738
+GO:0016192	vesicle-mediated transport	930	9	0.000e+00	+	0.004199
+GO:0006898	receptor-mediated endocytosis	723	8	0.000e+00	+	0.004292
+GO:0019953	sexual reproduction	560	7	0.000e+00	+	0.005771
+GO:0032501	multicellular organismal process	4707	21	0.000e+00	+	0.006649
+GO:0071822	protein complex subunit organization	399	6	0.000e+00	+	0.006701
+GO:0008152	metabolic process	5122	22	0.000e+00	+	0.007316
+GO:0044237	cellular metabolic process	3318	17	0.000e+00	+	0.007761
+
+#CCMCGCCCAC
+#EMBRYOintronDHS_0.05_GOsignificant
+
+GO:0043170	macromolecule metabolic process	2839	25	0.000e+00	+	0.000000
+GO:0044238	primary metabolic process	3725	28	0.000e+00	+	0.000000
+GO:0009987	cellular process	5920	34	0.000e+00	+	0.000000
+GO:0071704	organic substance metabolic process	3809	28	0.000e+00	+	0.000000
+GO:0050789	regulation of biological process	3069	25	0.000e+00	+	0.000000
+GO:0008152	metabolic process	5122	31	0.000e+00	+	0.000000
+GO:0050794	regulation of cellular process	2411	22	0.000e+00	+	0.000000
+GO:0016043	cellular component organization	1328	17	0.000e+00	+	0.000000
+GO:0019538	protein metabolic process	1760	19	0.000e+00	+	0.000000
+GO:0071840	cellular component organization or biogenesis	1393	17	0.000e+00	+	0.000000
+GO:0044260	cellular macromolecule metabolic process	2332	21	0.000e+00	+	0.000000
+GO:0065007	biological regulation	3584	25	0.000e+00	+	0.000000
+GO:0044237	cellular metabolic process	3318	24	0.000e+00	+	0.000000
+GO:0050896	response to stimulus	2110	19	0.000e+00	+	0.000001
+GO:0044267	cellular protein metabolic process	1274	15	0.000e+00	+	0.000002
+GO:0008150	biological_process	10081	39	0.000e+00	+	0.000002
+GO:0007275	multicellular organismal development	4288	26	0.000e+00	+	0.000002
+GO:0032501	multicellular organismal process	4707	27	0.000e+00	+	0.000003
+GO:0048856	anatomical structure development	3846	24	0.000e+00	+	0.000008
+GO:0032502	developmental process	4574	26	0.000e+00	+	0.000010
+GO:0022414	reproductive process	1454	15	0.000e+00	+	0.000012
+GO:0009790	embryo development	3028	21	0.000e+00	+	0.000014
+GO:0002119	nematode larval development	1993	17	0.000e+00	+	0.000020
+GO:0002164	larval development	1995	17	0.000e+00	+	0.000021
+GO:0009791	post-embryonic development	2012	17	0.000e+00	+	0.000023
+GO:0031323	regulation of cellular metabolic process	1115	13	0.000e+00	+	0.000025
+GO:0006139	nucleobase-containing compound metabolic process	1570	15	0.000e+00	+	0.000031
+GO:0048513	organ development	963	12	0.000e+00	+	0.000038
+GO:0006725	cellular aromatic compound metabolic process	1612	15	0.000e+00	+	0.000044
+GO:0080090	regulation of primary metabolic process	1177	13	0.000e+00	+	0.000045
+GO:0046483	heterocycle metabolic process	1620	15	0.000e+00	+	0.000047
+GO:0009056	catabolic process	800	11	0.000e+00	+	0.000048
+GO:0000003	reproduction	2674	19	0.000e+00	+	0.000052
+GO:0048731	system development	1196	13	0.000e+00	+	0.000054
+GO:0034641	cellular nitrogen compound metabolic process	1660	15	0.000e+00	+	0.000064
+GO:0051716	cellular response to stimulus	1432	14	0.000e+00	+	0.000065
+GO:0006796	phosphate-containing compound metabolic process	1236	13	0.000e+00	+	0.000079
+GO:0051179	localization	2763	19	0.000e+00	+	0.000086
+GO:0048608	reproductive structure development	850	11	0.000e+00	+	0.000086
+GO:0006793	phosphorus metabolic process	1251	13	0.000e+00	+	0.000090
+GO:0007548	sex differentiation	857	11	0.000e+00	+	0.000093
+GO:2000112	regulation of cellular macromolecule biosynthetic process	891	11	0.000e+00	+	0.000136
+GO:0010556	regulation of macromolecule biosynthetic process	897	11	0.000e+00	+	0.000145
+GO:0031326	regulation of cellular biosynthetic process	901	11	0.000e+00	+	0.000152
+GO:0009889	regulation of biosynthetic process	902	11	0.000e+00	+	0.000153
+GO:0040035	hermaphrodite genitalia development	730	10	0.000e+00	+	0.000173
+GO:0006810	transport	2056	16	0.000e+00	+	0.000177
+GO:0048806	genitalia development	736	10	0.000e+00	+	0.000186
+GO:0048518	positive regulation of biological process	737	10	0.000e+00	+	0.000188
+GO:0019222	regulation of metabolic process	1363	13	0.000e+00	+	0.000232
+
+#CGYGGCGAGAC
+#EMBRYOintronDHS_0.025_GOsignificant
+
+GO:0071704	organic substance metabolic process	3809	51	0.000e+00	+	0.000000
+GO:0000003	reproduction	2674	44	0.000e+00	+	0.000000
+GO:0048856	anatomical structure development	3846	49	0.000e+00	+	0.000000
+GO:0044237	cellular metabolic process	3318	46	0.000e+00	+	0.000000
+GO:0043170	macromolecule metabolic process	2839	43	0.000e+00	+	0.000000
+GO:0044238	primary metabolic process	3725	48	0.000e+00	+	0.000000
+GO:0009790	embryo development	3028	44	0.000e+00	+	0.000000
+GO:0009792	embryo development ending in birth or egg hatching	2971	43	0.000e+00	+	0.000000
+GO:0008152	metabolic process	5122	54	0.000e+00	+	0.000000
+GO:0007275	multicellular organismal development	4288	50	0.000e+00	+	0.000000
+GO:0032502	developmental process	4574	51	0.000e+00	+	0.000000
+GO:0051179	localization	2763	41	0.000e+00	+	0.000000
+GO:0019538	protein metabolic process	1760	34	0.000e+00	+	0.000000
+GO:0022414	reproductive process	1454	31	0.000e+00	+	0.000000
+GO:0044260	cellular macromolecule metabolic process	2332	37	0.000e+00	+	0.000000
+GO:0032501	multicellular organismal process	4707	50	0.000e+00	+	0.000000
+GO:0048468	cell development	713	23	0.000e+00	+	0.000000
+GO:0051234	establishment of localization	2128	35	0.000e+00	+	0.000000
+GO:0048869	cellular developmental process	936	25	0.000e+00	+	0.000000
+GO:0006810	transport	2056	34	0.000e+00	+	0.000000
+GO:0034641	cellular nitrogen compound metabolic process	1660	31	0.000e+00	+	0.000000
+GO:0030154	cell differentiation	889	24	0.000e+00	+	0.000000
+GO:0009987	cellular process	5920	54	0.000e+00	+	0.000000
+GO:0019752	carboxylic acid metabolic process	283	16	0.000e+00	+	0.000000
+GO:0006807	nitrogen compound metabolic process	1845	32	0.000e+00	+	0.000000
+GO:0019953	sexual reproduction	560	20	0.000e+00	+	0.000000
+GO:0051704	multi-organism process	919	24	0.000e+00	+	0.000000
+GO:0003006	developmental process involved in reproduction	1135	26	0.000e+00	+	0.000000
+GO:0046483	heterocycle metabolic process	1620	30	0.000e+00	+	0.000000
+GO:0043436	oxoacid metabolic process	298	16	0.000e+00	+	0.000000
+GO:0006082	organic acid metabolic process	298	16	0.000e+00	+	0.000000
+GO:0010467	gene expression	1043	25	0.000e+00	+	0.000000
+GO:0048609	multicellular organismal reproductive process	791	22	0.000e+00	+	0.000000
+GO:0032504	multicellular organism reproduction	795	22	0.000e+00	+	0.000000
+GO:0002119	nematode larval development	1993	32	0.000e+00	+	0.000000
+GO:0002164	larval development	1995	32	0.000e+00	+	0.000000
+GO:0012501	programmed cell death	468	18	0.000e+00	+	0.000000
+GO:0009791	post-embryonic development	2012	32	0.000e+00	+	0.000000
+GO:0044267	cellular protein metabolic process	1274	26	0.000e+00	+	0.000000
+GO:0016265	death	508	18	0.000e+00	+	0.000000
+GO:0008219	cell death	508	18	0.000e+00	+	0.000000
+GO:0008150	biological_process	10081	66	0.000e+00	+	0.000000
+GO:0006139	nucleobase-containing compound metabolic process	1570	28	0.000e+00	+	0.000000
+GO:0006915	apoptotic process	458	17	0.000e+00	+	0.000000
+GO:0006725	cellular aromatic compound metabolic process	1612	28	0.000e+00	+	0.000000
+GO:0071840	cellular component organization or biogenesis	1393	26	0.000e+00	+	0.000000
+GO:0050789	regulation of biological process	3069	37	0.000e+00	+	0.000000
+GO:0044281	small molecule metabolic process	856	21	0.000e+00	+	0.000000
+GO:0048610	cellular process involved in reproduction	587	18	0.000e+00	+	0.000000
+GO:0016070	RNA metabolic process	889	21	0.000e+00	+	0.000000
+
+#GAAGCTATGC
+#EMBRYOintronDHS_0.05_GOsignificant
+
+GO:0048878	chemical homeostasis	47	2	0.000e+00	+	0.007375
+GO:0010973	positive regulation of barrier septum assembly	1	1	0.000e+00	+	0.009341
+GO:0008645	hexose transport	1	1	0.000e+00	+	0.009341
+GO:0015758	glucose transport	1	1	0.000e+00	+	0.009341
+GO:0015749	monosaccharide transport	1	1	0.000e+00	+	0.009341
+GO:0032955	regulation of barrier septum assembly	1	1	0.000e+00	+	0.009341
+
+#GCTGCTGCY
+#EMBRYOintronDHS_0.05_GOsignificant
+
+GO:0050789	regulation of biological process	3069	45	0.000e+00	+	0.000000
+GO:0050794	regulation of cellular process	2411	40	0.000e+00	+	0.000000
+GO:0048731	system development	1196	30	0.000e+00	+	0.000000
+GO:0065007	biological regulation	3584	46	0.000e+00	+	0.000000
+GO:0048856	anatomical structure development	3846	45	0.000e+00	+	0.000000
+GO:0032502	developmental process	4574	48	0.000e+00	+	0.000000
+GO:0050896	response to stimulus	2110	34	0.000e+00	+	0.000000
+GO:0009987	cellular process	5920	53	0.000e+00	+	0.000000
+GO:0032501	multicellular organismal process	4707	47	0.000e+00	+	0.000000
+GO:0007275	multicellular organismal development	4288	45	0.000e+00	+	0.000000
+GO:0048519	negative regulation of biological process	609	20	0.000e+00	+	0.000000
+GO:0030154	cell differentiation	889	23	0.000e+00	+	0.000000
+GO:0007399	nervous system development	272	15	0.000e+00	+	0.000000
+GO:0048869	cellular developmental process	936	23	0.000e+00	+	0.000000
+GO:0009653	anatomical structure morphogenesis	1053	24	0.000e+00	+	0.000000
+GO:0010171	body morphogenesis	618	19	0.000e+00	+	0.000000
+GO:0071704	organic substance metabolic process	3809	41	0.000e+00	+	0.000000
+GO:0008152	metabolic process	5122	47	0.000e+00	+	0.000000
+GO:0044238	primary metabolic process	3725	40	0.000e+00	+	0.000000
+GO:0002119	nematode larval development	1993	30	0.000e+00	+	0.000000
+GO:0002164	larval development	1995	30	0.000e+00	+	0.000000
+GO:0009791	post-embryonic development	2012	30	0.000e+00	+	0.000000
+GO:0016043	cellular component organization	1328	25	0.000e+00	+	0.000000
+GO:0009790	embryo development	3028	36	0.000e+00	+	0.000000
+GO:0023052	signaling	1350	25	0.000e+00	+	0.000000
+GO:0007154	cell communication	1374	25	0.000e+00	+	0.000000
+GO:0071840	cellular component organization or biogenesis	1393	25	0.000e+00	+	0.000000
+GO:0044237	cellular metabolic process	3318	37	0.000e+00	+	0.000000
+GO:0009792	embryo development ending in birth or egg hatching	2971	35	0.000e+00	+	0.000000
+GO:0048583	regulation of response to stimulus	316	14	0.000e+00	+	0.000000
+GO:0043170	macromolecule metabolic process	2839	34	0.000e+00	+	0.000000
+GO:0019538	protein metabolic process	1760	27	0.000e+00	+	0.000000
+GO:0008150	biological_process	10081	62	0.000e+00	+	0.000000
+GO:0007165	signal transduction	1258	23	0.000e+00	+	0.000000
+GO:0003006	developmental process involved in reproduction	1135	22	0.000e+00	+	0.000000
+GO:0009056	catabolic process	800	19	0.000e+00	+	0.000000
+GO:0051239	regulation of multicellular organismal process	720	18	0.000e+00	+	0.000000
+GO:0040011	locomotion	1568	25	0.000e+00	+	0.000000
+GO:0051716	cellular response to stimulus	1432	24	0.000e+00	+	0.000000
+GO:0000003	reproduction	2674	32	0.000e+00	+	0.000000
+GO:2000026	regulation of multicellular organismal development	307	13	0.000e+00	+	0.000000
+GO:0022414	reproductive process	1454	24	0.000e+00	+	0.000000
+GO:0048699	generation of neurons	243	12	0.000e+00	+	0.000000
+GO:0022008	neurogenesis	244	12	0.000e+00	+	0.000000
+GO:0048608	reproductive structure development	850	19	0.000e+00	+	0.000000
+GO:0007548	sex differentiation	857	19	0.000e+00	+	0.000000
+GO:0019222	regulation of metabolic process	1363	23	0.000e+00	+	0.000000
+GO:0050793	regulation of developmental process	346	13	0.000e+00	+	0.000000
+GO:0048468	cell development	713	17	0.000e+00	+	0.000000
+GO:0051241	negative regulation of multicellular organismal process	224	11	0.000e+00	+	0.000000
+
+#GCVGCCGAC
+#EMBRYOintronDHS_0.05_GOsignificant
+
+GO:0050896	response to stimulus	2110	33	0.000e+00	+	0.000000
+GO:0051716	cellular response to stimulus	1432	26	0.000e+00	+	0.000001
+GO:0007165	signal transduction	1258	24	0.000e+00	+	0.000001
+GO:0007154	cell communication	1374	25	0.000e+00	+	0.000001
+GO:0023052	signaling	1350	24	0.000e+00	+	0.000004
+GO:0050789	regulation of biological process	3069	38	0.000e+00	+	0.000004
+GO:0009987	cellular process	5920	56	0.000e+00	+	0.000008
+GO:0065007	biological regulation	3584	41	0.000e+00	+	0.000009
+GO:0050794	regulation of cellular process	2411	32	0.000e+00	+	0.000015
+GO:0008152	metabolic process	5122	50	0.000e+00	+	0.000027
+GO:0018209	peptidyl-serine modification	16	4	0.000e+00	+	0.000106
+GO:0018105	peptidyl-serine phosphorylation	16	4	0.000e+00	+	0.000106
+GO:0009056	catabolic process	800	15	0.000e+00	+	0.000921
+GO:0071704	organic substance metabolic process	3809	38	0.000e+00	+	0.000974
+GO:0044238	primary metabolic process	3725	37	0.000e+00	+	0.001485
+GO:0019538	protein metabolic process	1760	23	0.000e+00	+	0.001506
+GO:0016310	phosphorylation	548	12	0.000e+00	+	0.001621
+GO:0044237	cellular metabolic process	3318	34	0.000e+00	+	0.001968
+GO:0060255	regulation of macromolecule metabolic process	1196	18	0.000e+00	+	0.002261
+GO:0018210	peptidyl-threonine modification	12	3	0.000e+00	+	0.002285
+GO:0048583	regulation of response to stimulus	316	9	0.000e+00	+	0.002451
+GO:0008150	biological_process	10081	72	0.000e+00	+	0.002621
+GO:0019222	regulation of metabolic process	1363	19	0.000e+00	+	0.003750
+GO:0043170	macromolecule metabolic process	2839	30	0.000e+00	+	0.003953
+GO:0044267	cellular protein metabolic process	1274	18	0.000e+00	+	0.005092
+GO:0051247	positive regulation of protein metabolic process	44	4	0.000e+00	+	0.005413
+GO:0043412	macromolecule modification	950	15	0.000e+00	+	0.006461
+
+#TGCGCCTTTAA
+#EMBRYOintronDHS_0.025_GOsignificant
+
+GO:0051234	establishment of localization	2128	13	0.000e+00	+	0.000000
+GO:0008380	RNA splicing	61	5	0.000e+00	+	0.000000
+GO:0006397	mRNA processing	88	5	0.000e+00	+	0.000000
+GO:0051179	localization	2763	13	0.000e+00	+	0.000002
+GO:0016071	mRNA metabolic process	115	5	0.000e+00	+	0.000002
+GO:0009792	embryo development ending in birth or egg hatching	2971	13	0.000e+00	+	0.000004
+GO:0009790	embryo development	3028	13	0.000e+00	+	0.000005
+GO:0006810	transport	2056	11	0.000e+00	+	0.000011
+GO:0006396	RNA processing	212	5	0.000e+00	+	0.000036
+GO:0010467	gene expression	1043	8	0.000e+00	+	0.000060
+GO:0006915	apoptotic process	458	6	0.000e+00	+	0.000078
+GO:0012501	programmed cell death	468	6	0.000e+00	+	0.000088
+GO:0048856	anatomical structure development	3846	13	0.000e+00	+	0.000090
+GO:0016265	death	508	6	0.000e+00	+	0.000141
+GO:0008219	cell death	508	6	0.000e+00	+	0.000141
+GO:0007275	multicellular organismal development	4288	13	0.000e+00	+	0.000320
+GO:0048519	negative regulation of biological process	609	6	0.000e+00	+	0.000395
+GO:0035046	pronuclear migration	52	3	0.000e+00	+	0.000457
+GO:0007097	nuclear migration	55	3	0.000e+00	+	0.000540
+GO:0051647	nucleus localization	56	3	0.000e+00	+	0.000570
+GO:0040023	establishment of nucleus localization	56	3	0.000e+00	+	0.000570
+GO:0050789	regulation of biological process	3069	11	0.000e+00	+	0.000579
+GO:0032502	developmental process	4574	13	0.000e+00	+	0.000672
+GO:0002119	nematode larval development	1993	9	0.000e+00	+	0.000848
+GO:0002164	larval development	1995	9	0.000e+00	+	0.000855
+GO:0007338	single fertilization	65	3	0.000e+00	+	0.000886
+GO:0009791	post-embryonic development	2012	9	0.000e+00	+	0.000915
+GO:0032501	multicellular organismal process	4707	13	0.000e+00	+	0.000932
+GO:0051649	establishment of localization in cell	421	5	0.000e+00	+	0.000990
+GO:0009566	fertilization	68	3	0.000e+00	+	0.001013
+GO:0006898	receptor-mediated endocytosis	723	6	0.000e+00	+	0.001039
+GO:0000003	reproduction	2674	10	0.000e+00	+	0.001250
+GO:0090304	nucleic acid metabolic process	1129	7	0.000e+00	+	0.001269
+GO:0051641	cellular localization	462	5	0.000e+00	+	0.001540
+GO:0034641	cellular nitrogen compound metabolic process	1660	8	0.000e+00	+	0.001820
+GO:0043652	engulfment of apoptotic cell	83	3	0.000e+00	+	0.001825
+GO:0010324	membrane invagination	83	3	0.000e+00	+	0.001825
+GO:0006911	phagocytosis, engulfment	83	3	0.000e+00	+	0.001825
+GO:0006897	endocytosis	825	6	0.000e+00	+	0.002167
+GO:0051128	regulation of cellular component organization	251	4	0.000e+00	+	0.002235
+GO:0008152	metabolic process	5122	13	0.000e+00	+	0.002424
+GO:0065007	biological regulation	3584	11	0.000e+00	+	0.002577
+GO:0044267	cellular protein metabolic process	1274	7	0.000e+00	+	0.002736
+GO:0044260	cellular macromolecule metabolic process	2332	9	0.000e+00	+	0.002965
+GO:0043277	apoptotic cell clearance	101	3	0.000e+00	+	0.003255
+GO:0016070	RNA metabolic process	889	6	0.000e+00	+	0.003274
+GO:0006909	phagocytosis	103	3	0.000e+00	+	0.003448
+GO:0016043	cellular component organization	1328	7	0.000e+00	+	0.003554
+GO:0006807	nitrogen compound metabolic process	1845	8	0.000e+00	+	0.003858
+GO:0016192	vesicle-mediated transport	930	6	0.000e+00	+	0.004194
+
+#AAATGGGCGTA
+#EMBRYOnoncodingDHS_0.05_GOsignificant
+
+GO:0007275	multicellular organismal development	4288	19	0.000e+00	+	0.000000
+GO:0000003	reproduction	2674	16	0.000e+00	+	0.000000
+GO:0006139	nucleobase-containing compound metabolic process	1570	13	0.000e+00	+	0.000000
+GO:0006725	cellular aromatic compound metabolic process	1612	13	0.000e+00	+	0.000000
+GO:0046483	heterocycle metabolic process	1620	13	0.000e+00	+	0.000000
+GO:0002119	nematode larval development	1993	14	0.000e+00	+	0.000000
+GO:0002164	larval development	1995	14	0.000e+00	+	0.000000
+GO:0032502	developmental process	4574	19	0.000e+00	+	0.000000
+GO:0009791	post-embryonic development	2012	14	0.000e+00	+	0.000000
+GO:0034641	cellular nitrogen compound metabolic process	1660	13	0.000e+00	+	0.000000
+GO:0016043	cellular component organization	1328	12	0.000e+00	+	0.000000
+GO:0032501	multicellular organismal process	4707	19	0.000e+00	+	0.000000
+GO:0071840	cellular component organization or biogenesis	1393	12	0.000e+00	+	0.000000
+GO:0006807	nitrogen compound metabolic process	1845	13	0.000e+00	+	0.000001
+GO:0048856	anatomical structure development	3846	17	0.000e+00	+	0.000001
+GO:0009792	embryo development ending in birth or egg hatching	2971	15	0.000e+00	+	0.000003
+GO:0009790	embryo development	3028	15	0.000e+00	+	0.000004
+GO:0006996	organelle organization	888	9	0.000e+00	+	0.000012
+GO:0044260	cellular macromolecule metabolic process	2332	13	0.000e+00	+	0.000012
+GO:0044237	cellular metabolic process	3318	15	0.000e+00	+	0.000012
+GO:0043170	macromolecule metabolic process	2839	14	0.000e+00	+	0.000014
+GO:0006915	apoptotic process	458	7	0.000e+00	+	0.000021
+GO:0012501	programmed cell death	468	7	0.000e+00	+	0.000024
+GO:0044249	cellular biosynthetic process	1318	10	0.000e+00	+	0.000031
+GO:0016265	death	508	7	0.000e+00	+	0.000042
+GO:0008219	cell death	508	7	0.000e+00	+	0.000042
+GO:0009058	biosynthetic process	1385	10	0.000e+00	+	0.000049
+GO:0044238	primary metabolic process	3725	15	0.000e+00	+	0.000057
+GO:0007568	aging	803	8	0.000e+00	+	0.000071
+GO:0010259	multicellular organismal aging	803	8	0.000e+00	+	0.000071
+GO:0008340	determination of adult lifespan	803	8	0.000e+00	+	0.000071
+GO:0022414	reproductive process	1454	10	0.000e+00	+	0.000076
+GO:0071704	organic substance metabolic process	3809	15	0.000e+00	+	0.000077
+GO:0051276	chromosome organization	205	5	0.000e+00	+	0.000111
+GO:0009987	cellular process	5920	18	0.000e+00	+	0.000116
+GO:0016568	chromatin modification	91	4	0.000e+00	+	0.000118
+GO:0060255	regulation of macromolecule metabolic process	1196	9	0.000e+00	+	0.000139
+GO:0051704	multi-organism process	919	8	0.000e+00	+	0.000191
+GO:0065007	biological regulation	3584	14	0.000e+00	+	0.000250
+GO:0050789	regulation of biological process	3069	13	0.000e+00	+	0.000278
+GO:0009059	macromolecule biosynthetic process	1003	8	0.000e+00	+	0.000362
+GO:0008150	biological_process	10081	22	0.000e+00	+	0.000379
+GO:0006325	chromatin organization	124	4	0.000e+00	+	0.000397
+GO:0019222	regulation of metabolic process	1363	9	0.000e+00	+	0.000402
+GO:0006898	receptor-mediated endocytosis	723	7	0.000e+00	+	0.000422
+GO:0008152	metabolic process	5122	16	0.000e+00	+	0.000602
+GO:0048609	multicellular organismal reproductive process	791	7	0.000e+00	+	0.000753
+GO:0010468	regulation of gene expression	1113	8	0.000e+00	+	0.000770
+GO:0032504	multicellular organism reproduction	795	7	0.000e+00	+	0.000777
+GO:0000280	nuclear division	312	5	0.000e+00	+	0.000836
+
+#AAATTKGAATTC
+#EMBRYOnoncodingDHS_0.025_GOsignificant
+
+GO:0042254	ribosome biogenesis	76	5	0.000e+00	+	0.000001
+GO:0022613	ribonucleoprotein complex biogenesis	103	5	0.000e+00	+	0.000005
+GO:0009987	cellular process	5920	19	0.000e+00	+	0.000044
+GO:0044085	cellular component biogenesis	521	7	0.000e+00	+	0.000067
+GO:0044260	cellular macromolecule metabolic process	2332	12	0.000e+00	+	0.000176
+GO:0034220	ion transmembrane transport	395	6	0.000e+00	+	0.000202
+GO:0043170	macromolecule metabolic process	2839	13	0.000e+00	+	0.000209
+GO:0044267	cellular protein metabolic process	1274	9	0.000e+00	+	0.000344
+GO:0019538	protein metabolic process	1760	10	0.000e+00	+	0.000643
+GO:0071840	cellular component organization or biogenesis	1393	9	0.000e+00	+	0.000703
+GO:0044238	primary metabolic process	3725	14	0.000e+00	+	0.000753
+GO:0071704	organic substance metabolic process	3809	14	0.000e+00	+	0.000978
+GO:0006364	rRNA processing	50	3	0.000e+00	+	0.000987
+GO:0016072	rRNA metabolic process	51	3	0.000e+00	+	0.001046
+GO:0044237	cellular metabolic process	3318	13	0.000e+00	+	0.001178
+GO:0006811	ion transport	551	6	0.000e+00	+	0.001315
+GO:0006486	protein glycosylation	77	3	0.000e+00	+	0.003527
+GO:0030001	metal ion transport	210	4	0.000e+00	+	0.003603
+GO:0043413	macromolecule glycosylation	78	3	0.000e+00	+	0.003663
+GO:0009101	glycoprotein biosynthetic process	89	3	0.000e+00	+	0.005394
+GO:0034470	ncRNA processing	94	3	0.000e+00	+	0.006330
+GO:0008152	metabolic process	5122	15	0.000e+00	+	0.006421
+GO:0055085	transmembrane transport	738	6	0.000e+00	+	0.006530
+GO:0070085	glycosylation	100	3	0.000e+00	+	0.007585
+GO:0040025	vulval development	105	3	0.000e+00	+	0.008745
+GO:0048569	post-embryonic organ development	108	3	0.000e+00	+	0.009493
+
+#ACAGAACCGTGG
+#EMBRYOnoncodingDHS_0.025_GOsignificant
+
+GO:0007275	multicellular organismal development	4288	23	0.000e+00	+	0.000000
+GO:0048856	anatomical structure development	3846	22	0.000e+00	+	0.000000
+GO:0032502	developmental process	4574	23	0.000e+00	+	0.000000
+GO:0032501	multicellular organismal process	4707	23	0.000e+00	+	0.000000
+GO:0009792	embryo development ending in birth or egg hatching	2971	19	0.000e+00	+	0.000000
+GO:0016043	cellular component organization	1328	14	0.000e+00	+	0.000000
+GO:0009790	embryo development	3028	19	0.000e+00	+	0.000000
+GO:0000003	reproduction	2674	18	0.000e+00	+	0.000000
+GO:0071840	cellular component organization or biogenesis	1393	14	0.000e+00	+	0.000000
+GO:0007568	aging	803	11	0.000e+00	+	0.000000
+GO:0010259	multicellular organismal aging	803	11	0.000e+00	+	0.000000
+GO:0008340	determination of adult lifespan	803	11	0.000e+00	+	0.000000
+GO:0006915	apoptotic process	458	9	0.000e+00	+	0.000000
+GO:0012501	programmed cell death	468	9	0.000e+00	+	0.000000
+GO:0051179	localization	2763	17	0.000e+00	+	0.000001
+GO:0016265	death	508	9	0.000e+00	+	0.000001
+GO:0008219	cell death	508	9	0.000e+00	+	0.000001
+GO:0044238	primary metabolic process	3725	19	0.000e+00	+	0.000001
+GO:0009987	cellular process	5920	23	0.000e+00	+	0.000001
+GO:0044237	cellular metabolic process	3318	18	0.000e+00	+	0.000001
+GO:0071704	organic substance metabolic process	3809	19	0.000e+00	+	0.000002
+GO:0008152	metabolic process	5122	21	0.000e+00	+	0.000004
+GO:0043170	macromolecule metabolic process	2839	16	0.000e+00	+	0.000008
+GO:0006996	organelle organization	888	10	0.000e+00	+	0.000009
+GO:0051234	establishment of localization	2128	14	0.000e+00	+	0.000012
+GO:0050789	regulation of biological process	3069	16	0.000e+00	+	0.000025
+GO:0006139	nucleobase-containing compound metabolic process	1570	12	0.000e+00	+	0.000025
+GO:0065007	biological regulation	3584	17	0.000e+00	+	0.000032
+GO:0006725	cellular aromatic compound metabolic process	1612	12	0.000e+00	+	0.000033
+GO:0046483	heterocycle metabolic process	1620	12	0.000e+00	+	0.000035
+GO:0002119	nematode larval development	1993	13	0.000e+00	+	0.000043
+GO:0002164	larval development	1995	13	0.000e+00	+	0.000043
+GO:0034641	cellular nitrogen compound metabolic process	1660	12	0.000e+00	+	0.000045
+GO:0009791	post-embryonic development	2012	13	0.000e+00	+	0.000047
+GO:0006810	transport	2056	13	0.000e+00	+	0.000061
+GO:0065008	regulation of biological quality	852	9	0.000e+00	+	0.000071
+GO:0009117	nucleotide metabolic process	458	7	0.000e+00	+	0.000116
+GO:0006753	nucleoside phosphate metabolic process	464	7	0.000e+00	+	0.000127
+GO:0006807	nitrogen compound metabolic process	1845	12	0.000e+00	+	0.000139
+GO:0055086	nucleobase-containing small molecule metabolic process	488	7	0.000e+00	+	0.000176
+GO:0008150	biological_process	10081	26	0.000e+00	+	0.000206
+GO:0019637	organophosphate metabolic process	568	7	0.000e+00	+	0.000473
+GO:0050896	response to stimulus	2110	12	0.000e+00	+	0.000556
+GO:0006897	endocytosis	825	8	0.000e+00	+	0.000570
+GO:0055114	oxidation-reduction process	587	7	0.000e+00	+	0.000585
+GO:0006163	purine nucleotide metabolic process	386	6	0.000e+00	+	0.000604
+GO:0019538	protein metabolic process	1760	11	0.000e+00	+	0.000612
+GO:0044281	small molecule metabolic process	856	8	0.000e+00	+	0.000743
+GO:0072521	purine-containing compound metabolic process	401	6	0.000e+00	+	0.000749
+GO:0007028	cytoplasm organization	5	2	0.000e+00	+	0.001005
+
+#AGCAGCGYCCA
+#EMBRYOnoncodingDHS_0.025_GOsignificant
+
+GO:0048518	positive regulation of biological process	737	9	0.000e+00	+	0.000014
+GO:0016192	vesicle-mediated transport	930	9	0.000e+00	+	0.000098
+GO:0000003	reproduction	2674	14	0.000e+00	+	0.000103
+GO:0051239	regulation of multicellular organismal process	720	8	0.000e+00	+	0.000147
+GO:0006810	transport	2056	12	0.000e+00	+	0.000255
+GO:0051234	establishment of localization	2128	12	0.000e+00	+	0.000365
+GO:0006396	RNA processing	212	5	0.000e+00	+	0.000368
+GO:0040014	regulation of multicellular organism growth	374	6	0.000e+00	+	0.000378
+GO:0006897	endocytosis	825	8	0.000e+00	+	0.000397
+GO:0050789	regulation of biological process	3069	14	0.000e+00	+	0.000532
+GO:0040008	regulation of growth	410	6	0.000e+00	+	0.000635
+GO:0016070	RNA metabolic process	889	8	0.000e+00	+	0.000682
+GO:0007275	multicellular organismal development	4288	16	0.000e+00	+	0.001130
+GO:0010467	gene expression	1043	8	0.000e+00	+	0.002133
+GO:0009653	anatomical structure morphogenesis	1053	8	0.000e+00	+	0.002282
+GO:0008150	biological_process	10081	24	0.000e+00	+	0.002384
+GO:0032502	developmental process	4574	16	0.000e+00	+	0.002613
+GO:0065007	biological regulation	3584	14	0.000e+00	+	0.003189
+GO:0090304	nucleic acid metabolic process	1129	8	0.000e+00	+	0.003723
+GO:0032501	multicellular organismal process	4707	16	0.000e+00	+	0.003772
+GO:0008406	gonad development	178	4	0.000e+00	+	0.003808
+GO:0040018	positive regulation of multicellular organism growth	351	5	0.000e+00	+	0.004015
+GO:0045137	development of primary sexual characteristics	186	4	0.000e+00	+	0.004506
+GO:0051240	positive regulation of multicellular organismal process	361	5	0.000e+00	+	0.004577
+GO:0045927	positive regulation of growth	368	5	0.000e+00	+	0.005006
+GO:0051179	localization	2763	12	0.000e+00	+	0.005052
+GO:0044260	cellular macromolecule metabolic process	2332	11	0.000e+00	+	0.005278
+GO:0048856	anatomical structure development	3846	14	0.000e+00	+	0.007031
+GO:0050794	regulation of cellular process	2411	11	0.000e+00	+	0.007129
+GO:0002119	nematode larval development	1993	10	0.000e+00	+	0.007252
+GO:0002164	larval development	1995	10	0.000e+00	+	0.007312
+GO:0009791	post-embryonic development	2012	10	0.000e+00	+	0.007845
+
+#ATGGTGCATYG
+#EMBRYOnoncodingDHS_0.05_GOsignificant
+
+GO:0008150	biological_process	10081	21	0.000e+00	+	0.000064
+GO:0006796	phosphate-containing compound metabolic process	1236	7	0.000e+00	+	0.003691
+GO:0006793	phosphorus metabolic process	1251	7	0.000e+00	+	0.003976
+GO:0044237	cellular metabolic process	3318	11	0.000e+00	+	0.004057
+
+#CAACGATGCTC
+#EMBRYOnoncodingDHS_0.05_GOsignificant
+
+GO:0000003	reproduction	2674	15	0.000e+00	+	0.000000
+GO:0022414	reproductive process	1454	11	0.000e+00	+	0.000002
+GO:0003006	developmental process involved in reproduction	1135	10	0.000e+00	+	0.000002
+GO:0048731	system development	1196	10	0.000e+00	+	0.000004
+GO:0009792	embryo development ending in birth or egg hatching	2971	14	0.000e+00	+	0.000005
+GO:0009790	embryo development	3028	14	0.000e+00	+	0.000006
+GO:0007275	multicellular organismal development	4288	16	0.000e+00	+	0.000007
+GO:0044267	cellular protein metabolic process	1274	10	0.000e+00	+	0.000007
+GO:0048856	anatomical structure development	3846	15	0.000e+00	+	0.000015
+GO:0032502	developmental process	4574	16	0.000e+00	+	0.000018
+GO:0044237	cellular metabolic process	3318	14	0.000e+00	+	0.000019
+GO:0032501	multicellular organismal process	4707	16	0.000e+00	+	0.000027
+GO:0048608	reproductive structure development	850	8	0.000e+00	+	0.000044
+GO:0007548	sex differentiation	857	8	0.000e+00	+	0.000047
+GO:0006464	cellular protein modification process	894	8	0.000e+00	+	0.000064
+GO:0036211	protein modification process	894	8	0.000e+00	+	0.000064
+GO:0044238	primary metabolic process	3725	14	0.000e+00	+	0.000082
+GO:0008152	metabolic process	5122	16	0.000e+00	+	0.000090
+GO:0051234	establishment of localization	2128	11	0.000e+00	+	0.000094
+GO:0009987	cellular process	5920	17	0.000e+00	+	0.000095
+GO:0043412	macromolecule modification	950	8	0.000e+00	+	0.000100
+GO:0008150	biological_process	10081	21	0.000e+00	+	0.000101
+GO:0071704	organic substance metabolic process	3809	14	0.000e+00	+	0.000107
+GO:0048513	organ development	963	8	0.000e+00	+	0.000111
+GO:0019538	protein metabolic process	1760	10	0.000e+00	+	0.000141
+GO:0032508	DNA duplex unwinding	32	3	0.000e+00	+	0.000154
+GO:0032392	DNA geometric change	32	3	0.000e+00	+	0.000154
+GO:0044260	cellular macromolecule metabolic process	2332	11	0.000e+00	+	0.000230
+GO:0046434	organophosphate catabolic process	296	5	0.000e+00	+	0.000359
+GO:0044281	small molecule metabolic process	856	7	0.000e+00	+	0.000576
+GO:0019637	organophosphate metabolic process	568	6	0.000e+00	+	0.000613
+GO:0006796	phosphate-containing compound metabolic process	1236	8	0.000e+00	+	0.000688
+GO:0006793	phosphorus metabolic process	1251	8	0.000e+00	+	0.000751
+GO:0008406	gonad development	178	4	0.000e+00	+	0.000982
+GO:0045137	development of primary sexual characteristics	186	4	0.000e+00	+	0.001164
+GO:0051179	localization	2763	11	0.000e+00	+	0.001174
+GO:0043170	macromolecule metabolic process	2839	11	0.000e+00	+	0.001517
+GO:0051239	regulation of multicellular organismal process	720	6	0.000e+00	+	0.002295
+GO:0040035	hermaphrodite genitalia development	730	6	0.000e+00	+	0.002476
+GO:0071103	DNA conformation change	82	3	0.000e+00	+	0.002496
+GO:0048806	genitalia development	736	6	0.000e+00	+	0.002590
+GO:0009117	nucleotide metabolic process	458	5	0.000e+00	+	0.002848
+GO:0006753	nucleoside phosphate metabolic process	464	5	0.000e+00	+	0.003027
+GO:0006259	DNA metabolic process	252	4	0.000e+00	+	0.003744
+GO:0055086	nucleobase-containing small molecule metabolic process	488	5	0.000e+00	+	0.003830
+GO:0006810	transport	2056	9	0.000e+00	+	0.003991
+GO:0009056	catabolic process	800	6	0.000e+00	+	0.004089
+GO:0009146	purine nucleoside triphosphate catabolic process	274	4	0.000e+00	+	0.005152
+GO:0009207	purine ribonucleoside triphosphate catabolic process	274	4	0.000e+00	+	0.005152
+GO:0009203	ribonucleoside triphosphate catabolic process	274	4	0.000e+00	+	0.005152
+
+#CCACGCAGGY
+#EMBRYOnoncodingDHS_0.05_GOsignificant
+
+GO:0006796	phosphate-containing compound metabolic process	1236	9	0.000e+00	+	0.000164
+GO:0006793	phosphorus metabolic process	1251	9	0.000e+00	+	0.000181
+GO:0044267	cellular protein metabolic process	1274	9	0.000e+00	+	0.000210
+GO:0030590	first cell cycle pseudocleavage	4	2	0.000e+00	+	0.000292
+GO:0030588	pseudocleavage	4	2	0.000e+00	+	0.000292
+GO:0044237	cellular metabolic process	3318	13	0.000e+00	+	0.000599
+GO:0016310	phosphorylation	548	6	0.000e+00	+	0.000896
+GO:0071375	cellular response to peptide hormone stimulus	9	2	0.000e+00	+	0.001473
+GO:0043434	response to peptide hormone stimulus	9	2	0.000e+00	+	0.001473
+GO:0008286	insulin receptor signaling pathway	9	2	0.000e+00	+	0.001473
+GO:0032869	cellular response to insulin stimulus	9	2	0.000e+00	+	0.001473
+GO:0032868	response to insulin stimulus	9	2	0.000e+00	+	0.001473
+GO:0071417	cellular response to organic nitrogen	10	2	0.000e+00	+	0.001817
+GO:0044238	primary metabolic process	3725	13	0.000e+00	+	0.002128
+GO:0010243	response to organic nitrogen	11	2	0.000e+00	+	0.002197
+GO:0071704	organic substance metabolic process	3809	13	0.000e+00	+	0.002705
+GO:0019538	protein metabolic process	1760	9	0.000e+00	+	0.002748
+GO:0040024	dauer larval development	79	3	0.000e+00	+	0.003031
+GO:0071103	DNA conformation change	82	3	0.000e+00	+	0.003382
+GO:0016311	dephosphorylation	231	4	0.000e+00	+	0.003969
+GO:0044260	cellular macromolecule metabolic process	2332	10	0.000e+00	+	0.004284
+GO:0055115	entry into diapause	19	2	0.000e+00	+	0.006519
+GO:0043053	dauer entry	19	2	0.000e+00	+	0.006519
+GO:0007568	aging	803	6	0.000e+00	+	0.007299
+GO:0010259	multicellular organismal aging	803	6	0.000e+00	+	0.007299
+GO:0008340	determination of adult lifespan	803	6	0.000e+00	+	0.007299
+
+#CCACTGMGCCA
+#EMBRYOnoncodingDHS_0.025_GOsignificant
+
+GO:0065007	biological regulation	3584	15	0.000e+00	+	0.003779
+GO:0007154	cell communication	1374	9	0.000e+00	+	0.004941
+GO:0044237	cellular metabolic process	3318	14	0.000e+00	+	0.006496
+GO:0051716	cellular response to stimulus	1432	9	0.000e+00	+	0.006725
+
+#CCCARTTGGACA
+#EMBRYOnoncodingDHS_0.025_GOsignificant
+
+GO:0007275	multicellular organismal development	4288	25	0.000e+00	+	0.000000
+GO:0032502	developmental process	4574	25	0.000e+00	+	0.000000
+GO:0009792	embryo development ending in birth or egg hatching	2971	21	0.000e+00	+	0.000000
+GO:0032501	multicellular organismal process	4707	25	0.000e+00	+	0.000000
+GO:0009790	embryo development	3028	21	0.000e+00	+	0.000000
+GO:0000003	reproduction	2674	20	0.000e+00	+	0.000000
+GO:0048856	anatomical structure development	3846	23	0.000e+00	+	0.000000
+GO:0044237	cellular metabolic process	3318	21	0.000e+00	+	0.000000
+GO:0016265	death	508	10	0.000e+00	+	0.000000
+GO:0008219	cell death	508	10	0.000e+00	+	0.000000
+GO:0044238	primary metabolic process	3725	21	0.000e+00	+	0.000001
+GO:0071704	organic substance metabolic process	3809	21	0.000e+00	+	0.000001
+GO:0009987	cellular process	5920	25	0.000e+00	+	0.000002
+GO:0006915	apoptotic process	458	9	0.000e+00	+	0.000002
+GO:0012501	programmed cell death	468	9	0.000e+00	+	0.000002
+GO:0006996	organelle organization	888	11	0.000e+00	+	0.000004
+GO:0008152	metabolic process	5122	23	0.000e+00	+	0.000004
+GO:0034641	cellular nitrogen compound metabolic process	1660	14	0.000e+00	+	0.000005
+GO:0002119	nematode larval development	1993	15	0.000e+00	+	0.000006
+GO:0002164	larval development	1995	15	0.000e+00	+	0.000006
+GO:0009791	post-embryonic development	2012	15	0.000e+00	+	0.000007
+GO:0051179	localization	2763	17	0.000e+00	+	0.000011
+GO:0051234	establishment of localization	2128	15	0.000e+00	+	0.000015
+GO:0019752	carboxylic acid metabolic process	283	7	0.000e+00	+	0.000015
+GO:0043170	macromolecule metabolic process	2839	17	0.000e+00	+	0.000016
+GO:0007568	aging	803	10	0.000e+00	+	0.000017
+GO:0010259	multicellular organismal aging	803	10	0.000e+00	+	0.000017
+GO:0008340	determination of adult lifespan	803	10	0.000e+00	+	0.000017
+GO:0006807	nitrogen compound metabolic process	1845	14	0.000e+00	+	0.000018
+GO:0006139	nucleobase-containing compound metabolic process	1570	13	0.000e+00	+	0.000021
+GO:0043436	oxoacid metabolic process	298	7	0.000e+00	+	0.000022
+GO:0006082	organic acid metabolic process	298	7	0.000e+00	+	0.000022
+GO:0008150	biological_process	10081	30	0.000e+00	+	0.000022
+GO:0006725	cellular aromatic compound metabolic process	1612	13	0.000e+00	+	0.000028
+GO:0046483	heterocycle metabolic process	1620	13	0.000e+00	+	0.000030
+GO:0044281	small molecule metabolic process	856	10	0.000e+00	+	0.000031
+GO:0050789	regulation of biological process	3069	17	0.000e+00	+	0.000049
+GO:0006810	transport	2056	14	0.000e+00	+	0.000067
+GO:0006950	response to stress	526	8	0.000e+00	+	0.000075
+GO:0019538	protein metabolic process	1760	13	0.000e+00	+	0.000076
+GO:0040011	locomotion	1568	12	0.000e+00	+	0.000156
+GO:0016043	cellular component organization	1328	11	0.000e+00	+	0.000217
+GO:0051301	cell division	423	7	0.000e+00	+	0.000217
+GO:0006897	endocytosis	825	9	0.000e+00	+	0.000226
+GO:0044260	cellular macromolecule metabolic process	2332	14	0.000e+00	+	0.000302
+GO:0071840	cellular component organization or biogenesis	1393	11	0.000e+00	+	0.000344
+GO:0051641	cellular localization	462	7	0.000e+00	+	0.000386
+GO:0065007	biological regulation	3584	17	0.000e+00	+	0.000443
+GO:0016192	vesicle-mediated transport	930	9	0.000e+00	+	0.000592
+GO:0007049	cell cycle	506	7	0.000e+00	+	0.000694
+
+#CCGGWCGTCCG
+#EMBRYOnoncodingDHS_0.025_GOsignificant
+
+GO:0009064	glutamine family amino acid metabolic process	24	2	0.000e+00	+	0.003834
+GO:0032956	regulation of actin cytoskeleton organization	28	2	0.000e+00	+	0.005206
+GO:0032970	regulation of actin filament-based process	33	2	0.000e+00	+	0.007211
+GO:0006520	cellular amino acid metabolic process	177	3	0.000e+00	+	0.009793
+
+#CCTSTAGCGCG
+#EMBRYOnoncodingDHS_0.05_GOsignificant
+
+GO:0019538	protein metabolic process	1760	5	0.000e+00	+	0.002275
+GO:0002119	nematode larval development	1993	5	0.000e+00	+	0.004109
+GO:0002164	larval development	1995	5	0.000e+00	+	0.004129
+GO:0009791	post-embryonic development	2012	5	0.000e+00	+	0.004298
+GO:0034470	ncRNA processing	94	2	0.000e+00	+	0.006329
+GO:0043277	apoptotic cell clearance	101	2	0.000e+00	+	0.007296
+GO:0006909	phagocytosis	103	2	0.000e+00	+	0.007585
+GO:0040025	vulval development	105	2	0.000e+00	+	0.007880
+GO:0048569	post-embryonic organ development	108	2	0.000e+00	+	0.008331
+GO:0010257	NADH dehydrogenase complex assembly	2	1	0.000e+00	+	0.008562
+GO:0018095	protein polyglutamylation	2	1	0.000e+00	+	0.008562
+GO:0032981	mitochondrial respiratory chain complex I assembly	2	1	0.000e+00	+	0.008562
+GO:0097031	mitochondrial respiratory chain complex I biogenesis	2	1	0.000e+00	+	0.008562
+GO:0044267	cellular protein metabolic process	1274	4	0.000e+00	+	0.009290
+
+#CCTYGTGATCC
+#EMBRYOnoncodingDHS_0.05_GOsignificant
+
+GO:0048856	anatomical structure development	3846	9	0.000e+00	+	0.000161
+GO:0007275	multicellular organismal development	4288	9	0.000e+00	+	0.000409
+GO:0032502	developmental process	4574	9	0.000e+00	+	0.000708
+GO:0032501	multicellular organismal process	4707	9	0.000e+00	+	0.000904
+GO:0000003	reproduction	2674	7	0.000e+00	+	0.001932
+GO:0002119	nematode larval development	1993	6	0.000e+00	+	0.003745
+GO:0002164	larval development	1995	6	0.000e+00	+	0.003766
+GO:0009791	post-embryonic development	2012	6	0.000e+00	+	0.003947
+GO:0009790	embryo development	3028	7	0.000e+00	+	0.004309
+GO:0006810	transport	2056	6	0.000e+00	+	0.004450
+GO:0051234	establishment of localization	2128	6	0.000e+00	+	0.005382
+GO:0006898	receptor-mediated endocytosis	723	4	0.000e+00	+	0.006217
+GO:0048806	genitalia development	736	4	0.000e+00	+	0.006653
+GO:0006474	N-terminal protein amino acid acetylation	1	1	0.000e+00	+	0.008028
+GO:0046160	heme a metabolic process	1	1	0.000e+00	+	0.008028
+GO:0051694	pointed-end actin filament capping	1	1	0.000e+00	+	0.008028
+GO:0006784	heme a biosynthetic process	1	1	0.000e+00	+	0.008028
+
+#CGAAGGATCAC
+#EMBRYOnoncodingDHS_0.05_GOsignificant
+
+GO:0065007	biological regulation	3584	16	0.000e+00	+	0.000004
+GO:0000003	reproduction	2674	14	0.000e+00	+	0.000007
+GO:0048856	anatomical structure development	3846	16	0.000e+00	+	0.000012
+GO:0002119	nematode larval development	1993	12	0.000e+00	+	0.000020
+GO:0002164	larval development	1995	12	0.000e+00	+	0.000020
+GO:0009791	post-embryonic development	2012	12	0.000e+00	+	0.000022
+GO:0032501	multicellular organismal process	4707	17	0.000e+00	+	0.000027
+GO:0009790	embryo development	3028	14	0.000e+00	+	0.000034
+GO:0007275	multicellular organismal development	4288	16	0.000e+00	+	0.000055
+GO:0032502	developmental process	4574	16	0.000e+00	+	0.000135
+GO:0009792	embryo development ending in birth or egg hatching	2971	13	0.000e+00	+	0.000205
+GO:0050789	regulation of biological process	3069	13	0.000e+00	+	0.000296
+GO:0051234	establishment of localization	2128	11	0.000e+00	+	0.000333
+GO:0018996	molting cycle, collagen and cuticulin-based cuticle	278	5	0.000e+00	+	0.000513
+GO:0042303	molting cycle	278	5	0.000e+00	+	0.000513
+GO:0051179	localization	2763	12	0.000e+00	+	0.000641
+GO:0008152	metabolic process	5122	16	0.000e+00	+	0.000641
+GO:0022414	reproductive process	1454	9	0.000e+00	+	0.000719
+GO:0006810	transport	2056	10	0.000e+00	+	0.001727
+GO:0016192	vesicle-mediated transport	930	7	0.000e+00	+	0.002244
+GO:0071704	organic substance metabolic process	3809	13	0.000e+00	+	0.003189
+GO:0008150	biological_process	10081	21	0.000e+00	+	0.003230
+GO:0044237	cellular metabolic process	3318	12	0.000e+00	+	0.004095
+GO:0009987	cellular process	5920	16	0.000e+00	+	0.004418
+GO:0009653	anatomical structure morphogenesis	1053	7	0.000e+00	+	0.004884
+GO:0048806	genitalia development	736	6	0.000e+00	+	0.005369
+GO:0010468	regulation of gene expression	1113	7	0.000e+00	+	0.006882
+GO:0003006	developmental process involved in reproduction	1135	7	0.000e+00	+	0.007764
+GO:0040011	locomotion	1568	8	0.000e+00	+	0.009146
+
+#CGCGCAAATGA
+#EMBRYOnoncodingDHS_0.05_GOsignificant
+
+GO:0006486	protein glycosylation	77	3	0.000e+00	+	0.000700
+GO:0043413	macromolecule glycosylation	78	3	0.000e+00	+	0.000727
+GO:0009101	glycoprotein biosynthetic process	89	3	0.000e+00	+	0.001074
+GO:0070085	glycosylation	100	3	0.000e+00	+	0.001514
+GO:0009100	glycoprotein metabolic process	112	3	0.000e+00	+	0.002113
+GO:0051179	localization	2763	9	0.000e+00	+	0.003747
+GO:0009792	embryo development ending in birth or egg hatching	2971	9	0.000e+00	+	0.006566
+GO:0009790	embryo development	3028	9	0.000e+00	+	0.007594
+
+#CGGCMGCGGC
+#EMBRYOnoncodingDHS_0.05_GOsignificant
+
+GO:0009987	cellular process	5920	86	0.000e+00	+	0.000000
+GO:0050789	regulation of biological process	3069	62	0.000e+00	+	0.000000
+GO:0065007	biological regulation	3584	65	0.000e+00	+	0.000000
+GO:0048731	system development	1196	38	0.000e+00	+	0.000000
+GO:0051179	localization	2763	55	0.000e+00	+	0.000000
+GO:0048856	anatomical structure development	3846	64	0.000e+00	+	0.000000
+GO:0000003	reproduction	2674	52	0.000e+00	+	0.000000
+GO:0044237	cellular metabolic process	3318	58	0.000e+00	+	0.000000
+GO:0050794	regulation of cellular process	2411	49	0.000e+00	+	0.000000
+GO:0006810	transport	2056	45	0.000e+00	+	0.000000
+GO:0044238	primary metabolic process	3725	61	0.000e+00	+	0.000000
+GO:0051234	establishment of localization	2128	45	0.000e+00	+	0.000000
+GO:0071704	organic substance metabolic process	3809	61	0.000e+00	+	0.000000
+GO:0032502	developmental process	4574	67	0.000e+00	+	0.000000
+GO:0050896	response to stimulus	2110	44	0.000e+00	+	0.000000
+GO:0007275	multicellular organismal development	4288	64	0.000e+00	+	0.000000
+GO:0023052	signaling	1350	35	0.000e+00	+	0.000000
+GO:0032501	multicellular organismal process	4707	67	0.000e+00	+	0.000000
+GO:0003006	developmental process involved in reproduction	1135	32	0.000e+00	+	0.000000
+GO:0007154	cell communication	1374	35	0.000e+00	+	0.000000
+GO:0008152	metabolic process	5122	70	0.000e+00	+	0.000000
+GO:0009058	biosynthetic process	1385	35	0.000e+00	+	0.000000
+GO:0016192	vesicle-mediated transport	930	29	0.000e+00	+	0.000000
+GO:0006807	nitrogen compound metabolic process	1845	40	0.000e+00	+	0.000000
+GO:0007165	signal transduction	1258	33	0.000e+00	+	0.000000
+GO:0043170	macromolecule metabolic process	2839	50	0.000e+00	+	0.000000
+GO:0048513	organ development	963	29	0.000e+00	+	0.000000
+GO:0006897	endocytosis	825	27	0.000e+00	+	0.000000
+GO:0042221	response to chemical stimulus	637	24	0.000e+00	+	0.000000
+GO:0008150	biological_process	10081	101	0.000e+00	+	0.000000
+GO:0002119	nematode larval development	1993	41	0.000e+00	+	0.000000
+GO:0002164	larval development	1995	41	0.000e+00	+	0.000000
+GO:0048608	reproductive structure development	850	27	0.000e+00	+	0.000000
+GO:0007548	sex differentiation	857	27	0.000e+00	+	0.000000
+GO:0009791	post-embryonic development	2012	41	0.000e+00	+	0.000000
+GO:0044249	cellular biosynthetic process	1318	33	0.000e+00	+	0.000000
+GO:0048869	cellular developmental process	936	28	0.000e+00	+	0.000000
+GO:0022008	neurogenesis	244	16	0.000e+00	+	0.000000
+GO:0044260	cellular macromolecule metabolic process	2332	44	0.000e+00	+	0.000000
+GO:0033036	macromolecule localization	948	28	0.000e+00	+	0.000000
+GO:0009792	embryo development ending in birth or egg hatching	2971	50	0.000e+00	+	0.000000
+GO:0051716	cellular response to stimulus	1432	34	0.000e+00	+	0.000000
+GO:0030154	cell differentiation	889	27	0.000e+00	+	0.000000
+GO:0022414	reproductive process	1454	34	0.000e+00	+	0.000000
+GO:0009790	embryo development	3028	50	0.000e+00	+	0.000000
+GO:0034641	cellular nitrogen compound metabolic process	1660	36	0.000e+00	+	0.000000
+GO:0007399	nervous system development	272	16	0.000e+00	+	0.000000
+GO:0016043	cellular component organization	1328	32	0.000e+00	+	0.000000
+GO:0043412	macromolecule modification	950	27	0.000e+00	+	0.000000
+GO:0048699	generation of neurons	243	15	0.000e+00	+	0.000000
+
+#CGTGGYGAGAC
+#EMBRYOnoncodingDHS_0.025_GOsignificant
+
+GO:0000003	reproduction	2674	88	0.000e+00	+	0.000000
+GO:0071704	organic substance metabolic process	3809	98	0.000e+00	+	0.000000
+GO:0044237	cellular metabolic process	3318	91	0.000e+00	+	0.000000
+GO:0051234	establishment of localization	2128	76	0.000e+00	+	0.000000
+GO:0044238	primary metabolic process	3725	95	0.000e+00	+	0.000000
+GO:0009792	embryo development ending in birth or egg hatching	2971	86	0.000e+00	+	0.000000
+GO:0006810	transport	2056	74	0.000e+00	+	0.000000
+GO:0009790	embryo development	3028	86	0.000e+00	+	0.000000
+GO:0043170	macromolecule metabolic process	2839	82	0.000e+00	+	0.000000
+GO:0048856	anatomical structure development	3846	93	0.000e+00	+	0.000000
+GO:0007275	multicellular organismal development	4288	97	0.000e+00	+	0.000000
+GO:0051179	localization	2763	80	0.000e+00	+	0.000000
+GO:0032502	developmental process	4574	99	0.000e+00	+	0.000000
+GO:0032501	multicellular organismal process	4707	100	0.000e+00	+	0.000000
+GO:0008152	metabolic process	5122	103	0.000e+00	+	0.000000
+GO:0046483	heterocycle metabolic process	1620	63	0.000e+00	+	0.000000
+GO:0044260	cellular macromolecule metabolic process	2332	73	0.000e+00	+	0.000000
+GO:0022414	reproductive process	1454	59	0.000e+00	+	0.000000
+GO:0006807	nitrogen compound metabolic process	1845	65	0.000e+00	+	0.000000
+GO:0002119	nematode larval development	1993	67	0.000e+00	+	0.000000
+GO:0002164	larval development	1995	67	0.000e+00	+	0.000000
+GO:0034641	cellular nitrogen compound metabolic process	1660	62	0.000e+00	+	0.000000
+GO:0009791	post-embryonic development	2012	67	0.000e+00	+	0.000000
+GO:0009987	cellular process	5920	107	0.000e+00	+	0.000000
+GO:0006139	nucleobase-containing compound metabolic process	1570	60	0.000e+00	+	0.000000
+GO:0009058	biosynthetic process	1385	57	0.000e+00	+	0.000000
+GO:0006725	cellular aromatic compound metabolic process	1612	60	0.000e+00	+	0.000000
+GO:0019538	protein metabolic process	1760	62	0.000e+00	+	0.000000
+GO:0010467	gene expression	1043	50	0.000e+00	+	0.000000
+GO:0071840	cellular component organization or biogenesis	1393	56	0.000e+00	+	0.000000
+GO:0044249	cellular biosynthetic process	1318	54	0.000e+00	+	0.000000
+GO:0006897	endocytosis	825	44	0.000e+00	+	0.000000
+GO:0016192	vesicle-mediated transport	930	46	0.000e+00	+	0.000000
+GO:0044267	cellular protein metabolic process	1274	52	0.000e+00	+	0.000000
+GO:0051704	multi-organism process	919	45	0.000e+00	+	0.000000
+GO:0016265	death	508	36	0.000e+00	+	0.000000
+GO:0008219	cell death	508	36	0.000e+00	+	0.000000
+GO:0044281	small molecule metabolic process	856	43	0.000e+00	+	0.000000
+GO:0006898	receptor-mediated endocytosis	723	40	0.000e+00	+	0.000000
+GO:0050789	regulation of biological process	3069	74	0.000e+00	+	0.000000
+GO:0034645	cellular macromolecule biosynthetic process	996	45	0.000e+00	+	0.000000
+GO:0009059	macromolecule biosynthetic process	1003	45	0.000e+00	+	0.000000
+GO:0003006	developmental process involved in reproduction	1135	47	0.000e+00	+	0.000000
+GO:0012501	programmed cell death	468	33	0.000e+00	+	0.000000
+GO:0065007	biological regulation	3584	78	0.000e+00	+	0.000000
+GO:0006996	organelle organization	888	42	0.000e+00	+	0.000000
+GO:0019953	sexual reproduction	560	35	0.000e+00	+	0.000000
+GO:0016043	cellular component organization	1328	49	0.000e+00	+	0.000000
+GO:0006915	apoptotic process	458	32	0.000e+00	+	0.000000
+GO:0008150	biological_process	10081	126	0.000e+00	+	0.000000
+
+#CGYCAAGGCAC
+#EMBRYOnoncodingDHS_0.025_GOsignificant
+
+GO:0006470	protein dephosphorylation	135	3	0.000e+00	+	0.006095
+GO:0060627	regulation of vesicle-mediated transport	26	2	0.000e+00	+	0.006477
+
+#CTAAAAAATCTY
+#EMBRYOnoncodingDHS_0.025_GOsignificant
+
+GO:0065007	biological regulation	3584	10	0.000e+00	+	0.001191
+GO:0048583	regulation of response to stimulus	316	4	0.000e+00	+	0.001405
+GO:0050789	regulation of biological process	3069	9	0.000e+00	+	0.002478
+GO:0050794	regulation of cellular process	2411	8	0.000e+00	+	0.003080
+GO:0008150	biological_process	10081	15	0.000e+00	+	0.003175
+GO:0044281	small molecule metabolic process	856	5	0.000e+00	+	0.005957
+GO:0051174	regulation of phosphorus metabolic process	204	3	0.000e+00	+	0.007958
+GO:0019220	regulation of phosphate metabolic process	204	3	0.000e+00	+	0.007958
+GO:0009966	regulation of signal transduction	220	3	0.000e+00	+	0.009906
+GO:0032502	developmental process	4574	10	0.000e+00	+	0.009940
+
+#CTGATGDTCTGA
+#EMBRYOnoncodingDHS_0.025_GOsignificant
+
+GO:0006810	transport	2056	11	0.000e+00	+	0.000033
+GO:0015991	ATP hydrolysis coupled proton transport	21	3	0.000e+00	+	0.000034
+GO:0015988	energy coupled proton transport, against electrochemical gradient	21	3	0.000e+00	+	0.000034
+GO:0051234	establishment of localization	2128	11	0.000e+00	+	0.000046
+GO:0016192	vesicle-mediated transport	930	8	0.000e+00	+	0.000051
+GO:0000003	reproduction	2674	12	0.000e+00	+	0.000053
+GO:0032501	multicellular organismal process	4707	15	0.000e+00	+	0.000077
+GO:0006898	receptor-mediated endocytosis	723	7	0.000e+00	+	0.000121
+GO:0048806	genitalia development	736	7	0.000e+00	+	0.000135
+GO:0007275	multicellular organismal development	4288	14	0.000e+00	+	0.000183
+GO:0006897	endocytosis	825	7	0.000e+00	+	0.000285
+GO:0006811	ion transport	551	6	0.000e+00	+	0.000342
+GO:0048608	reproductive structure development	850	7	0.000e+00	+	0.000346
+GO:0007548	sex differentiation	857	7	0.000e+00	+	0.000365
+GO:0032502	developmental process	4574	14	0.000e+00	+	0.000404
+GO:0051179	localization	2763	11	0.000e+00	+	0.000594
+GO:0006812	cation transport	357	5	0.000e+00	+	0.000613
+GO:0048513	organ development	963	7	0.000e+00	+	0.000773
+GO:0015992	proton transport	76	3	0.000e+00	+	0.001536
+GO:0006818	hydrogen transport	77	3	0.000e+00	+	0.001597
+GO:0040035	hermaphrodite genitalia development	730	6	0.000e+00	+	0.001650
+GO:0003006	developmental process involved in reproduction	1135	7	0.000e+00	+	0.002197
+GO:0048856	anatomical structure development	3846	12	0.000e+00	+	0.002389
+GO:0048731	system development	1196	7	0.000e+00	+	0.003051
+GO:0018996	molting cycle, collagen and cuticulin-based cuticle	278	4	0.000e+00	+	0.004002
+GO:0042303	molting cycle	278	4	0.000e+00	+	0.004002
+GO:0009987	cellular process	5920	14	0.000e+00	+	0.008574
+GO:0008152	metabolic process	5122	13	0.000e+00	+	0.008646
+
+#GAATTGCGYCA
+#EMBRYOnoncodingDHS_0.05_GOsignificant
+
+GO:0035335	peptidyl-tyrosine dephosphorylation	115	4	0.000e+00	+	0.000062
+GO:0006470	protein dephosphorylation	135	4	0.000e+00	+	0.000116
+GO:0016311	dephosphorylation	231	4	0.000e+00	+	0.000938
+GO:0006796	phosphate-containing compound metabolic process	1236	7	0.000e+00	+	0.001537
+GO:0006793	phosphorus metabolic process	1251	7	0.000e+00	+	0.001658
+GO:0044237	cellular metabolic process	3318	10	0.000e+00	+	0.006448
+
+#GCRGCCGACA
+#EMBRYOnoncodingDHS_0.025_GOsignificant
+
+GO:0009987	cellular process	5920	67	0.000e+00	+	0.000000
+GO:0050896	response to stimulus	2110	36	0.000e+00	+	0.000000
+GO:0050789	regulation of biological process	3069	44	0.000e+00	+	0.000000
+GO:0065007	biological regulation	3584	48	0.000e+00	+	0.000000
+GO:0008150	biological_process	10081	89	0.000e+00	+	0.000001
+GO:0051179	localization	2763	40	0.000e+00	+	0.000002
+GO:0008152	metabolic process	5122	58	0.000e+00	+	0.000002
+GO:0023052	signaling	1350	26	0.000e+00	+	0.000005
+GO:0007154	cell communication	1374	26	0.000e+00	+	0.000007
+GO:0071704	organic substance metabolic process	3809	47	0.000e+00	+	0.000009
+GO:0044238	primary metabolic process	3725	46	0.000e+00	+	0.000013
+GO:0051716	cellular response to stimulus	1432	26	0.000e+00	+	0.000015
+GO:0050794	regulation of cellular process	2411	35	0.000e+00	+	0.000017
+GO:0007165	signal transduction	1258	24	0.000e+00	+	0.000020
+GO:0051704	multi-organism process	919	20	0.000e+00	+	0.000031
+GO:0051234	establishment of localization	2128	32	0.000e+00	+	0.000032
+GO:0006810	transport	2056	31	0.000e+00	+	0.000048
+GO:0000003	reproduction	2674	36	0.000e+00	+	0.000069
+GO:0022414	reproductive process	1454	24	0.000e+00	+	0.000261
+GO:0043170	macromolecule metabolic process	2839	36	0.000e+00	+	0.000284
+GO:0009056	catabolic process	800	17	0.000e+00	+	0.000353
+GO:0071840	cellular component organization or biogenesis	1393	23	0.000e+00	+	0.000432
+GO:0006725	cellular aromatic compound metabolic process	1612	25	0.000e+00	+	0.000468
+GO:0019098	reproductive behavior	343	11	0.000e+00	+	0.000484
+GO:0051705	behavioral interaction between organisms	345	11	0.000e+00	+	0.000511
+GO:0044237	cellular metabolic process	3318	39	0.000e+00	+	0.000602
+GO:0006139	nucleobase-containing compound metabolic process	1570	24	0.000e+00	+	0.000949
+GO:0048609	multicellular organismal reproductive process	791	16	0.000e+00	+	0.001266
+GO:0032504	multicellular organism reproduction	795	16	0.000e+00	+	0.001346
+GO:0007610	behavior	463	12	0.000e+00	+	0.001499
+GO:0046483	heterocycle metabolic process	1620	24	0.000e+00	+	0.001587
+GO:0006807	nitrogen compound metabolic process	1845	26	0.000e+00	+	0.001592
+GO:0034220	ion transmembrane transport	395	11	0.000e+00	+	0.001775
+GO:0010562	positive regulation of phosphorus metabolic process	28	4	0.000e+00	+	0.001972
+GO:0045937	positive regulation of phosphate metabolic process	28	4	0.000e+00	+	0.001972
+GO:0019953	sexual reproduction	560	13	0.000e+00	+	0.002084
+GO:0016043	cellular component organization	1328	21	0.000e+00	+	0.002231
+GO:0055085	transmembrane transport	738	15	0.000e+00	+	0.002253
+GO:0034641	cellular nitrogen compound metabolic process	1660	24	0.000e+00	+	0.002355
+GO:0051049	regulation of transport	100	6	0.000e+00	+	0.002386
+GO:0016192	vesicle-mediated transport	930	17	0.000e+00	+	0.002430
+GO:0033057	multicellular organismal reproductive behavior	340	10	0.000e+00	+	0.002697
+GO:0033036	macromolecule localization	948	17	0.000e+00	+	0.003084
+GO:0009058	biosynthetic process	1385	21	0.000e+00	+	0.004099
+GO:0044249	cellular biosynthetic process	1318	20	0.000e+00	+	0.006271
+GO:0042325	regulation of phosphorylation	76	5	0.000e+00	+	0.007320
+GO:0016310	phosphorylation	548	12	0.000e+00	+	0.007486
+GO:0006811	ion transport	551	12	0.000e+00	+	0.007877
+GO:0040011	locomotion	1568	22	0.000e+00	+	0.008294
+GO:0048518	positive regulation of biological process	737	14	0.000e+00	+	0.008640
+
+#GDGGAGTACAC
+#EMBRYOnoncodingDHS_0.05_GOsignificant
+
+GO:0044238	primary metabolic process	3725	52	0.000e+00	+	0.000000
+GO:0071704	organic substance metabolic process	3809	52	0.000e+00	+	0.000000
+GO:0044237	cellular metabolic process	3318	48	0.000e+00	+	0.000000
+GO:0006807	nitrogen compound metabolic process	1845	37	0.000e+00	+	0.000000
+GO:0034641	cellular nitrogen compound metabolic process	1660	35	0.000e+00	+	0.000000
+GO:0009987	cellular process	5920	59	0.000e+00	+	0.000000
+GO:0007275	multicellular organismal development	4288	51	0.000e+00	+	0.000000
+GO:0043170	macromolecule metabolic process	2839	42	0.000e+00	+	0.000000
+GO:0008152	metabolic process	5122	54	0.000e+00	+	0.000000
+GO:0044260	cellular macromolecule metabolic process	2332	38	0.000e+00	+	0.000000
+GO:0032502	developmental process	4574	51	0.000e+00	+	0.000000
+GO:0032501	multicellular organismal process	4707	51	0.000e+00	+	0.000000
+GO:0044249	cellular biosynthetic process	1318	29	0.000e+00	+	0.000000
+GO:0000003	reproduction	2674	39	0.000e+00	+	0.000000
+GO:0010467	gene expression	1043	26	0.000e+00	+	0.000000
+GO:0002119	nematode larval development	1993	34	0.000e+00	+	0.000000
+GO:0002164	larval development	1995	34	0.000e+00	+	0.000000
+GO:0009058	biosynthetic process	1385	29	0.000e+00	+	0.000000
+GO:0009791	post-embryonic development	2012	34	0.000e+00	+	0.000000
+GO:0009792	embryo development ending in birth or egg hatching	2971	40	0.000e+00	+	0.000000
+GO:0048856	anatomical structure development	3846	45	0.000e+00	+	0.000000
+GO:0006139	nucleobase-containing compound metabolic process	1570	30	0.000e+00	+	0.000000
+GO:0009790	embryo development	3028	40	0.000e+00	+	0.000000
+GO:0006725	cellular aromatic compound metabolic process	1612	30	0.000e+00	+	0.000000
+GO:0046483	heterocycle metabolic process	1620	30	0.000e+00	+	0.000000
+GO:0034645	cellular macromolecule biosynthetic process	996	24	0.000e+00	+	0.000000
+GO:0009059	macromolecule biosynthetic process	1003	24	0.000e+00	+	0.000000
+GO:0003006	developmental process involved in reproduction	1135	25	0.000e+00	+	0.000000
+GO:0051179	localization	2763	37	0.000e+00	+	0.000000
+GO:0019538	protein metabolic process	1760	30	0.000e+00	+	0.000000
+GO:0044267	cellular protein metabolic process	1274	26	0.000e+00	+	0.000000
+GO:0048731	system development	1196	25	0.000e+00	+	0.000000
+GO:0050789	regulation of biological process	3069	38	0.000e+00	+	0.000000
+GO:0090304	nucleic acid metabolic process	1129	24	0.000e+00	+	0.000000
+GO:0071840	cellular component organization or biogenesis	1393	26	0.000e+00	+	0.000000
+GO:0006810	transport	2056	31	0.000e+00	+	0.000000
+GO:0048608	reproductive structure development	850	21	0.000e+00	+	0.000000
+GO:0044281	small molecule metabolic process	856	21	0.000e+00	+	0.000000
+GO:0007548	sex differentiation	857	21	0.000e+00	+	0.000000
+GO:0008150	biological_process	10081	67	0.000e+00	+	0.000000
+GO:0016043	cellular component organization	1328	25	0.000e+00	+	0.000000
+GO:0051234	establishment of localization	2128	31	0.000e+00	+	0.000000
+GO:0022414	reproductive process	1454	26	0.000e+00	+	0.000000
+GO:0040035	hermaphrodite genitalia development	730	19	0.000e+00	+	0.000000
+GO:0048806	genitalia development	736	19	0.000e+00	+	0.000000
+GO:0043412	macromolecule modification	950	21	0.000e+00	+	0.000000
+GO:0048513	organ development	963	21	0.000e+00	+	0.000000
+GO:0065007	biological regulation	3584	39	0.000e+00	+	0.000000
+GO:0040011	locomotion	1568	25	0.000e+00	+	0.000000
+GO:0016070	RNA metabolic process	889	19	0.000e+00	+	0.000000
+
+#GGAGTGTCGTW
+#EMBRYOnoncodingDHS_0.05_GOsignificant
+
+GO:0008152	metabolic process	5122	15	0.000e+00	+	0.000077
+GO:0090407	organophosphate biosynthetic process	188	4	0.000e+00	+	0.000634
+GO:0044238	primary metabolic process	3725	12	0.000e+00	+	0.000776
+GO:0071704	organic substance metabolic process	3809	12	0.000e+00	+	0.000978
+GO:0002119	nematode larval development	1993	9	0.000e+00	+	0.000986
+GO:0002164	larval development	1995	9	0.000e+00	+	0.000994
+GO:0009791	post-embryonic development	2012	9	0.000e+00	+	0.001064
+GO:0044237	cellular metabolic process	3318	11	0.000e+00	+	0.001637
+GO:0006796	phosphate-containing compound metabolic process	1236	7	0.000e+00	+	0.002306
+GO:0006793	phosphorus metabolic process	1251	7	0.000e+00	+	0.002487
+GO:0007275	multicellular organismal development	4288	12	0.000e+00	+	0.003290
+GO:0015986	ATP synthesis coupled proton transport	19	2	0.000e+00	+	0.003374
+GO:0015985	energy coupled proton transport, down electrochemical gradient	19	2	0.000e+00	+	0.003374
+GO:0009987	cellular process	5920	14	0.000e+00	+	0.003407
+GO:0019637	organophosphate metabolic process	568	5	0.000e+00	+	0.003711
+GO:0009792	embryo development ending in birth or egg hatching	2971	10	0.000e+00	+	0.003820
+GO:0008610	lipid biosynthetic process	119	3	0.000e+00	+	0.004319
+GO:0009790	embryo development	3028	10	0.000e+00	+	0.004489
+GO:0006754	ATP biosynthetic process	24	2	0.000e+00	+	0.005367
+GO:0032502	developmental process	4574	12	0.000e+00	+	0.006292
+GO:0009145	purine nucleoside triphosphate biosynthetic process	28	2	0.000e+00	+	0.007289
+GO:0009206	purine ribonucleoside triphosphate biosynthetic process	28	2	0.000e+00	+	0.007289
+GO:0032501	multicellular organismal process	4707	12	0.000e+00	+	0.008363
+GO:0009201	ribonucleoside triphosphate biosynthetic process	31	2	0.000e+00	+	0.008919
+GO:0009116	nucleoside metabolic process	377	4	0.000e+00	+	0.009110
+GO:0000003	reproduction	2674	9	0.000e+00	+	0.009691
+
+#GGANTCGAACC
+#EMBRYOnoncodingDHS_0.05_GOsignificant
+
+GO:0051179	localization	2763	12	0.000e+00	+	0.001940
+GO:0006812	cation transport	357	5	0.000e+00	+	0.002136
+GO:0030001	metal ion transport	210	4	0.000e+00	+	0.003649
+GO:0015672	monovalent inorganic cation transport	218	4	0.000e+00	+	0.004207
+
+#GGASCTTTGCC
+#EMBRYOnoncodingDHS_0.05_GOsignificant
+
+GO:0050794	regulation of cellular process	2411	7	0.000e+00	+	0.001555
+GO:0009967	positive regulation of signal transduction	38	2	0.000e+00	+	0.002453
+GO:0009966	regulation of signal transduction	220	3	0.000e+00	+	0.002763
+GO:0048584	positive regulation of response to stimulus	47	2	0.000e+00	+	0.003741
+GO:0023056	positive regulation of signaling	50	2	0.000e+00	+	0.004230
+GO:0010647	positive regulation of cell communication	52	2	0.000e+00	+	0.004572
+GO:0010646	regulation of cell communication	265	3	0.000e+00	+	0.004757
+GO:0023051	regulation of signaling	265	3	0.000e+00	+	0.004757
+GO:0045842	positive regulation of mitotic metaphase/anaphase transition	1	1	0.000e+00	+	0.006422
+GO:0006567	threonine catabolic process	1	1	0.000e+00	+	0.006422
+GO:0006566	threonine metabolic process	1	1	0.000e+00	+	0.006422
+GO:0050789	regulation of biological process	3069	7	0.000e+00	+	0.007198
+GO:0048583	regulation of response to stimulus	316	3	0.000e+00	+	0.007932
+GO:0048522	positive regulation of cellular process	321	3	0.000e+00	+	0.008300
+GO:0032504	multicellular organism reproduction	795	4	0.000e+00	+	0.009499
+GO:0007568	aging	803	4	0.000e+00	+	0.009862
+GO:0010259	multicellular organismal aging	803	4	0.000e+00	+	0.009862
+GO:0008340	determination of adult lifespan	803	4	0.000e+00	+	0.009862
+GO:0006486	protein glycosylation	77	2	0.000e+00	+	0.009943
+
+#GGCGCTGCTWA
+#EMBRYOnoncodingDHS_0.025_GOsignificant
+
+GO:0043457	regulation of cellular respiration	1	2	0.000e+00	+	0.000011
+GO:0043467	regulation of generation of precursor metabolites and energy	3	2	0.000e+00	+	0.000103
+
+#GGGNTCGAACC
+#EMBRYOnoncodingDHS_0.025_GOsignificant
+
+GO:0030010	establishment of cell polarity	39	4	0.000e+00	+	0.000209
+GO:0007163	establishment or maintenance of cell polarity	55	4	0.000e+00	+	0.000801
+GO:0051179	localization	2763	20	0.000e+00	+	0.000822
+GO:0009987	cellular process	5920	31	0.000e+00	+	0.000911
+GO:0051234	establishment of localization	2128	17	0.000e+00	+	0.001300
+GO:0000003	reproduction	2674	19	0.000e+00	+	0.001913
+GO:0003006	developmental process involved in reproduction	1135	12	0.000e+00	+	0.001934
+GO:0007154	cell communication	1374	13	0.000e+00	+	0.002736
+GO:0048731	system development	1196	12	0.000e+00	+	0.003208
+GO:0006810	transport	2056	16	0.000e+00	+	0.003339
+GO:0035023	regulation of Rho protein signal transduction	30	3	0.000e+00	+	0.003934
+GO:0006796	phosphate-containing compound metabolic process	1236	12	0.000e+00	+	0.004394
+GO:0050896	response to stimulus	2110	16	0.000e+00	+	0.004554
+GO:0006793	phosphorus metabolic process	1251	12	0.000e+00	+	0.004928
+GO:0051649	establishment of localization in cell	421	7	0.000e+00	+	0.006624
+GO:0055085	transmembrane transport	738	9	0.000e+00	+	0.007203
+GO:0090387	phagolysosome assembly involved in apoptotic cell clearance	7	2	0.000e+00	+	0.008684
+GO:0061065	regulation of dauer larval development	7	2	0.000e+00	+	0.008684
+GO:0048869	cellular developmental process	936	10	0.000e+00	+	0.008700
+
+#GTGCGTCCGGY
+#EMBRYOnoncodingDHS_0.05_GOsignificant
+
+GO:0009064	glutamine family amino acid metabolic process	24	2	0.000e+00	+	0.004234
+GO:0032956	regulation of actin cytoskeleton organization	28	2	0.000e+00	+	0.005749
+GO:0032970	regulation of actin filament-based process	33	2	0.000e+00	+	0.007961
+
+#MAACAACAACAA
+#EMBRYOnoncodingDHS_0.025_GOsignificant
+
+GO:0009605	response to external stimulus	260	9	0.000e+00	+	0.000000
+GO:0048518	positive regulation of biological process	737	12	0.000e+00	+	0.000000
+GO:0050794	regulation of cellular process	2411	18	0.000e+00	+	0.000000
+GO:0040012	regulation of locomotion	155	7	0.000e+00	+	0.000000
+GO:0040017	positive regulation of locomotion	40	5	0.000e+00	+	0.000000
+GO:0000003	reproduction	2674	18	0.000e+00	+	0.000000
+GO:0050789	regulation of biological process	3069	19	0.000e+00	+	0.000000
+GO:0050896	response to stimulus	2110	16	0.000e+00	+	0.000001
+GO:0032879	regulation of localization	197	7	0.000e+00	+	0.000001
+GO:0048522	positive regulation of cellular process	321	8	0.000e+00	+	0.000001
+GO:0040011	locomotion	1568	14	0.000e+00	+	0.000001
+GO:0065007	biological regulation	3584	19	0.000e+00	+	0.000006
+GO:0042221	response to chemical stimulus	637	9	0.000e+00	+	0.000019
+GO:0009987	cellular process	5920	23	0.000e+00	+	0.000028
+GO:0008150	biological_process	10081	29	0.000e+00	+	0.000037
+GO:0051704	multi-organism process	919	10	0.000e+00	+	0.000040
+GO:0016192	vesicle-mediated transport	930	10	0.000e+00	+	0.000044
+GO:0007212	dopamine receptor signaling pathway	13	3	0.000e+00	+	0.000059
+GO:0006928	cellular component movement	374	7	0.000e+00	+	0.000072
+GO:0019222	regulation of metabolic process	1363	11	0.000e+00	+	0.000183
+GO:0010468	regulation of gene expression	1113	10	0.000e+00	+	0.000223
+GO:0031323	regulation of cellular metabolic process	1115	10	0.000e+00	+	0.000226
+GO:0051707	response to other organism	71	4	0.000e+00	+	0.000228
+GO:0009607	response to biotic stimulus	71	4	0.000e+00	+	0.000228
+GO:0043207	response to external biotic stimulus	71	4	0.000e+00	+	0.000228
+GO:2000112	regulation of cellular macromolecule biosynthetic process	891	9	0.000e+00	+	0.000293
+GO:0010556	regulation of macromolecule biosynthetic process	897	9	0.000e+00	+	0.000310
+GO:0031326	regulation of cellular biosynthetic process	901	9	0.000e+00	+	0.000321
+GO:0009889	regulation of biosynthetic process	902	9	0.000e+00	+	0.000324
+GO:0080090	regulation of primary metabolic process	1177	10	0.000e+00	+	0.000365
+GO:0007617	mating behavior	24	3	0.000e+00	+	0.000370
+GO:0060255	regulation of macromolecule metabolic process	1196	10	0.000e+00	+	0.000420
+GO:0007618	mating	26	3	0.000e+00	+	0.000469
+GO:0032501	multicellular organismal process	4707	19	0.000e+00	+	0.000482
+GO:0030335	positive regulation of cell migration	3	2	0.000e+00	+	0.000506
+GO:0051171	regulation of nitrogen compound metabolic process	983	9	0.000e+00	+	0.000646
+GO:0019219	regulation of nucleobase-containing compound metabolic process	983	9	0.000e+00	+	0.000646
+GO:0006357	regulation of transcription from RNA polymerase II promoter	205	5	0.000e+00	+	0.000763
+GO:0045944	positive regulation of transcription from RNA polymerase II promoter	99	4	0.000e+00	+	0.000835
+GO:0051049	regulation of transport	100	4	0.000e+00	+	0.000868
+GO:0051272	positive regulation of cellular component movement	4	2	0.000e+00	+	0.000899
+GO:2000147	positive regulation of cell motility	4	2	0.000e+00	+	0.000899
+GO:0048609	multicellular organismal reproductive process	791	8	0.000e+00	+	0.001060
+GO:0032504	multicellular organism reproduction	795	8	0.000e+00	+	0.001099
+GO:0045893	positive regulation of transcription, DNA-dependent	107	4	0.000e+00	+	0.001129
+GO:0023052	signaling	1350	10	0.000e+00	+	0.001207
+GO:0051254	positive regulation of RNA metabolic process	110	4	0.000e+00	+	0.001257
+GO:0010628	positive regulation of gene expression	110	4	0.000e+00	+	0.001257
+GO:0051179	localization	2763	14	0.000e+00	+	0.001299
+GO:0007154	cell communication	1374	10	0.000e+00	+	0.001405
+
+#AGCAGCRGC
+#EMBRYOfootprint_0.1_GOsignificant
+
+GO:0044238	primary metabolic process	3702	40	0.000e+00	+	0.000000
+GO:0071704	organic substance metabolic process	3788	40	0.000e+00	+	0.000000
+GO:0009987	cellular process	5865	48	0.000e+00	+	0.000000
+GO:0048856	anatomical structure development	3832	38	0.000e+00	+	0.000000
+GO:0050789	regulation of biological process	3050	34	0.000e+00	+	0.000000
+GO:0044237	cellular metabolic process	3262	35	0.000e+00	+	0.000000
+GO:0008152	metabolic process	5110	43	0.000e+00	+	0.000000
+GO:0040011	locomotion	1562	25	0.000e+00	+	0.000000
+GO:0065007	biological regulation	3562	36	0.000e+00	+	0.000000
+GO:0009791	post-embryonic development	2000	27	0.000e+00	+	0.000000
+GO:0032502	developmental process	4556	39	0.000e+00	+	0.000001
+GO:0008150	biological_process	10064	57	0.000e+00	+	0.000001
+GO:0009790	embryo development	3039	32	0.000e+00	+	0.000001
+GO:0002119	nematode larval development	1981	26	0.000e+00	+	0.000002
+GO:0002164	larval development	1983	26	0.000e+00	+	0.000002
+GO:0051179	localization	2755	30	0.000e+00	+	0.000003
+GO:0050794	regulation of cellular process	2388	28	0.000e+00	+	0.000003
+GO:0009792	embryo development ending in birth or egg hatching	2969	31	0.000e+00	+	0.000003
+GO:0043170	macromolecule metabolic process	2821	30	0.000e+00	+	0.000005
+GO:0009653	anatomical structure morphogenesis	1038	19	0.000e+00	+	0.000005
+GO:0032501	multicellular organismal process	4695	38	0.000e+00	+	0.000013
+GO:0010171	body morphogenesis	617	15	0.000e+00	+	0.000013
+GO:0007275	multicellular organismal development	4277	36	0.000e+00	+	0.000019
+GO:0016043	cellular component organization	1314	20	0.000e+00	+	0.000041
+GO:0051234	establishment of localization	2122	25	0.000e+00	+	0.000041
+GO:0009056	catabolic process	793	16	0.000e+00	+	0.000047
+GO:0019222	regulation of metabolic process	1346	20	0.000e+00	+	0.000061
+GO:0071840	cellular component organization or biogenesis	1378	20	0.000e+00	+	0.000091
+GO:0006725	cellular aromatic compound metabolic process	1600	21	0.000e+00	+	0.000197
+GO:0034641	cellular nitrogen compound metabolic process	1648	21	0.000e+00	+	0.000331
+GO:0006807	nitrogen compound metabolic process	1834	22	0.000e+00	+	0.000400
+GO:0010468	regulation of gene expression	1096	17	0.000e+00	+	0.000663
+GO:0000003	reproduction	2641	26	0.000e+00	+	0.000742
+GO:0019538	protein metabolic process	1747	21	0.000e+00	+	0.000905
+GO:0006996	organelle organization	878	15	0.000e+00	+	0.001436
+GO:0080090	regulation of primary metabolic process	1163	17	0.000e+00	+	0.001558
+GO:0060255	regulation of macromolecule metabolic process	1182	17	0.000e+00	+	0.001964
+GO:0048609	multicellular organismal reproductive process	789	14	0.000e+00	+	0.002656
+GO:0032504	multicellular organism reproduction	793	14	0.000e+00	+	0.002824
+GO:0006810	transport	2050	22	0.000e+00	+	0.002896
+GO:0006139	nucleobase-containing compound metabolic process	1558	19	0.000e+00	+	0.003839
+GO:0031323	regulation of cellular metabolic process	1098	16	0.000e+00	+	0.004242
+GO:0048610	cellular process involved in reproduction	583	12	0.000e+00	+	0.004955
+GO:0051171	regulation of nitrogen compound metabolic process	968	15	0.000e+00	+	0.005020
+GO:0019219	regulation of nucleobase-containing compound metabolic process	968	15	0.000e+00	+	0.005020
+GO:0044260	cellular macromolecule metabolic process	2311	23	0.000e+00	+	0.005293
+GO:0046483	heterocycle metabolic process	1608	19	0.000e+00	+	0.006246
+
+#CGCTGCTWA
+#EMBRYOfootprint_0.1_GOsignificant
+
+GO:0046483	heterocycle metabolic process	1608	11	0.000e+00	+	0.000516
+GO:0006807	nitrogen compound metabolic process	1834	11	0.000e+00	+	0.002008
+GO:0006139	nucleobase-containing compound metabolic process	1558	10	0.000e+00	+	0.005604
+GO:0006725	cellular aromatic compound metabolic process	1600	10	0.000e+00	+	0.007182
+GO:0034641	cellular nitrogen compound metabolic process	1648	10	0.000e+00	+	0.009456
+
+#CTGCGTMTC
+#EMBRYOfootprint_0.1_GOsignificant
+
+GO:0044237	cellular metabolic process	3262	37	0.000e+00	+	0.000000
+GO:0044238	primary metabolic process	3702	39	0.000e+00	+	0.000000
+GO:0071704	organic substance metabolic process	3788	39	0.000e+00	+	0.000000
+GO:0006796	phosphate-containing compound metabolic process	1208	24	0.000e+00	+	0.000000
+GO:0006793	phosphorus metabolic process	1223	24	0.000e+00	+	0.000000
+GO:0009987	cellular process	5865	46	0.000e+00	+	0.000000
+GO:0065007	biological regulation	3562	37	0.000e+00	+	0.000000
+GO:0008152	metabolic process	5110	42	0.000e+00	+	0.000000
+GO:0000003	reproduction	2641	31	0.000e+00	+	0.000000
+GO:0044249	cellular biosynthetic process	1309	23	0.000e+00	+	0.000000
+GO:0050789	regulation of biological process	3050	33	0.000e+00	+	0.000000
+GO:0002119	nematode larval development	1981	27	0.000e+00	+	0.000000
+GO:0002164	larval development	1983	27	0.000e+00	+	0.000000
+GO:0009791	post-embryonic development	2000	27	0.000e+00	+	0.000000
+GO:0044281	small molecule metabolic process	847	19	0.000e+00	+	0.000000
+GO:0009058	biosynthetic process	1376	23	0.000e+00	+	0.000000
+GO:0006807	nitrogen compound metabolic process	1834	25	0.000e+00	+	0.000000
+GO:0050794	regulation of cellular process	2388	28	0.000e+00	+	0.000000
+GO:0040011	locomotion	1562	23	0.000e+00	+	0.000001
+GO:0019637	organophosphate metabolic process	569	15	0.000e+00	+	0.000002
+GO:0043170	macromolecule metabolic process	2821	29	0.000e+00	+	0.000004
+GO:0003006	developmental process involved in reproduction	1132	19	0.000e+00	+	0.000007
+GO:0044260	cellular macromolecule metabolic process	2311	26	0.000e+00	+	0.000009
+GO:0048856	anatomical structure development	3832	33	0.000e+00	+	0.000011
+GO:0009653	anatomical structure morphogenesis	1038	18	0.000e+00	+	0.000013
+GO:0048518	positive regulation of biological process	714	15	0.000e+00	+	0.000037
+GO:0019538	protein metabolic process	1747	22	0.000e+00	+	0.000042
+GO:0040035	hermaphrodite genitalia development	729	15	0.000e+00	+	0.000049
+GO:0048806	genitalia development	735	15	0.000e+00	+	0.000054
+GO:0022414	reproductive process	1452	20	0.000e+00	+	0.000064
+GO:0009792	embryo development ending in birth or egg hatching	2969	28	0.000e+00	+	0.000075
+GO:0051704	multi-organism process	894	16	0.000e+00	+	0.000094
+GO:0009790	embryo development	3039	28	0.000e+00	+	0.000127
+GO:0048609	multicellular organismal reproductive process	789	15	0.000e+00	+	0.000140
+GO:0032504	multicellular organism reproduction	793	15	0.000e+00	+	0.000150
+GO:0007275	multicellular organismal development	4277	33	0.000e+00	+	0.000208
+GO:0032502	developmental process	4556	34	0.000e+00	+	0.000243
+GO:0007276	gamete generation	478	12	0.000e+00	+	0.000278
+GO:0044267	cellular protein metabolic process	1261	18	0.000e+00	+	0.000282
+GO:0046483	heterocycle metabolic process	1608	20	0.000e+00	+	0.000359
+GO:0051179	localization	2755	26	0.000e+00	+	0.000369
+GO:0048608	reproductive structure development	849	15	0.000e+00	+	0.000370
+GO:0008150	biological_process	10064	51	0.000e+00	+	0.000374
+GO:0007548	sex differentiation	856	15	0.000e+00	+	0.000412
+GO:0032501	multicellular organismal process	4695	34	0.000e+00	+	0.000539
+GO:0019222	regulation of metabolic process	1346	18	0.000e+00	+	0.000764
+GO:0048869	cellular developmental process	923	15	0.000e+00	+	0.001103
+GO:0006139	nucleobase-containing compound metabolic process	1558	19	0.000e+00	+	0.001244
+GO:0051234	establishment of localization	2122	22	0.000e+00	+	0.001454
+GO:0019953	sexual reproduction	557	12	0.000e+00	+	0.001460
+
+#DCTCCGCC
+#EMBRYOfootprint_0.1_GOsignificant
+
+GO:0009792	embryo development ending in birth or egg hatching	2969	23	0.000e+00	+	0.000006
+GO:0009790	embryo development	3039	23	0.000e+00	+	0.000010
+GO:0000003	reproduction	2641	21	0.000e+00	+	0.000039
+GO:0051179	localization	2755	21	0.000e+00	+	0.000085
+GO:0008150	biological_process	10064	37	0.000e+00	+	0.000088
+GO:0002119	nematode larval development	1981	18	0.000e+00	+	0.000132
+GO:0002164	larval development	1983	18	0.000e+00	+	0.000134
+GO:0009791	post-embryonic development	2000	18	0.000e+00	+	0.000153
+GO:0048856	anatomical structure development	3832	24	0.000e+00	+	0.000155
+GO:0009987	cellular process	5865	29	0.000e+00	+	0.000199
+GO:0007275	multicellular organismal development	4277	25	0.000e+00	+	0.000238
+GO:0051234	establishment of localization	2122	18	0.000e+00	+	0.000388
+GO:0044238	primary metabolic process	3702	23	0.000e+00	+	0.000498
+GO:0071704	organic substance metabolic process	3788	23	0.000e+00	+	0.000778
+GO:0043170	macromolecule metabolic process	2821	20	0.000e+00	+	0.000877
+GO:0032502	developmental process	4556	25	0.000e+00	+	0.000905
+GO:0032501	multicellular organismal process	4695	25	0.000e+00	+	0.001695
+GO:0019538	protein metabolic process	1747	15	0.000e+00	+	0.008184
+GO:0008152	metabolic process	5110	25	0.000e+00	+	0.009687
+GO:0044237	cellular metabolic process	3262	20	0.000e+00	+	0.009994
